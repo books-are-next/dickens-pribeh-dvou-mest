@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola dvacátá Obhajoba
 contentType: prose
 ---
-
-Kapitola dvacátá  
-Obhajoba
 
   
 

@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola dvanáctá Tma
 contentType: prose
 ---
-
-Kapitola dvanáctá  
-Tma
 
   
 

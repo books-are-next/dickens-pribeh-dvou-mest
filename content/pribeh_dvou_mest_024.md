@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola dvanáctá Jemný člověk
 contentType: prose
 ---
-
-Kapitola dvanáctá  
-Jemný člověk
 
   
 

@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola pátá Muž pro všechno
 contentType: prose
 ---
-
-Kapitola pátá  
-Muž pro všechno
 
   
 

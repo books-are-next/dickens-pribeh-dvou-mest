@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola desátá Dva sliby
 contentType: prose
 ---
-
-Kapitola desátá  
-Dva sliby
 
   
 

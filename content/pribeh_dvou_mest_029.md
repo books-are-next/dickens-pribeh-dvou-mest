@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola sedmnáctá Jedna noc
 contentType: prose
 ---
-
-Kapitola sedmnáctá  
-Jedna noc
 
   
 

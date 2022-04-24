@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola dvacátá první Ozvěny kroků
 contentType: prose
 ---
-
-Kapitola dvacátá první  
-Ozvěny kroků
 
   
 

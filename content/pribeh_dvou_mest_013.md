@@ -1,10 +1,7 @@
 ---
-title: ''
+title: "Kapitola první O\_pět let později"
 contentType: prose
 ---
-
-Kapitola první  
-O pět let později
 
   
 

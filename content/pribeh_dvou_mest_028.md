@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola šestnáctá Ještě pletení
 contentType: prose
 ---
-
-Kapitola šestnáctá  
-Ještě pletení
 
   
 
@@ -250,4 +247,4 @@ Setmělo se a bylo pak slyšet údery kostelních zvonů a vzdálené bubnová
 
 * * *
 
-[2](./resources/undefined) Rebelující sedláci. Pozn. red.
+[2](./resources/undefined) Rebelující sedláci. _Pozn. red._
