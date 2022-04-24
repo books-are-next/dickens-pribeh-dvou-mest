@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola první Tajná záležitost
 contentType: prose
 ---
-
-Kapitola první  
-Tajná záležitost
 
   
 
@@ -222,4 +219,4 @@ V kobce byla židle, stůl a slamník. Když žalářník před odchodem prohl
 
 * * *
 
-[5](./resources/undefined) Zarputilý. Pozn. red.
+[5](./resources/undefined) Zarputilý. _Pozn. red._

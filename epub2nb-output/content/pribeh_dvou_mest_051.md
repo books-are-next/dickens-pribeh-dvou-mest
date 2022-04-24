@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola čtrnáctá Pletení skončeno
 contentType: prose
 ---
-
-Kapitola čtrnáctá  
-Pletení skončeno
 
   
 

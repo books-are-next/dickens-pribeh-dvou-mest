@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola pátá Vinárna
 contentType: prose
 ---
-
-Kapitola pátá  
-Vinárna
 
   
 

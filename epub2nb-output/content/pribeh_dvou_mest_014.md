@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola druhá Podívaná
 contentType: prose
 ---
-
-Kapitola druhá  
-Podívaná
 
   
 

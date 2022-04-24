@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola třináctá Člověk bez jemnosti
 contentType: prose
 ---
-
-Kapitola třináctá  
-Člověk bez jemnosti
 
   
 

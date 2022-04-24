@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola první Doba
 contentType: prose
 ---
-
-Kapitola první  
-Doba
 
   
 

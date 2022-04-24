@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola pátá Řezač dříví
 contentType: prose
 ---
-
-Kapitola pátá  
-Řezač dříví
 
   
 

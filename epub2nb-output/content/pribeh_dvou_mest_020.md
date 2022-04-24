@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola osmá Milostivý pán na venkově
 contentType: prose
 ---
-
-Kapitola osmá  
-Milostivý pán na venkově
 
   
 
