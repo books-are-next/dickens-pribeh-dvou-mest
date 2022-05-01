@@ -1,7 +1,10 @@
 ---
-title: "Kapitola sedmá Milostivý pán v\_městě"
+title: ''
 contentType: prose
 ---
+
+## Kapitola sedmá  
+Milostivý pán v městě
 
   
 

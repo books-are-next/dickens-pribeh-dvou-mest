@@ -1,7 +1,10 @@
 ---
-title: Kapitola dvacátá druhá Bouře trvá
+title: ''
 contentType: prose
 ---
+
+## Kapitola dvacátá druhá  
+Bouře trvá
 
   
 

@@ -1,7 +1,10 @@
 ---
-title: Kapitola šestá Obuvník
+title: ''
 contentType: prose
 ---
+
+## Kapitola šestá  
+Obuvník
 
   
 

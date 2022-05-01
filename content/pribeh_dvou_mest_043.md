@@ -1,7 +1,10 @@
 ---
-title: Kapitola šestá Vítězství
+title: ''
 contentType: prose
 ---
+
+## Kapitola šestá  
+Vítězství
 
   
 

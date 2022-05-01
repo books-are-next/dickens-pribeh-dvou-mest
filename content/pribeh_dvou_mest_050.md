@@ -1,7 +1,10 @@
 ---
-title: Kapitola třináctá Padesát dva
+title: ''
 contentType: prose
 ---
+
+## Kapitola třináctá  
+Padesát dva
 
   
 

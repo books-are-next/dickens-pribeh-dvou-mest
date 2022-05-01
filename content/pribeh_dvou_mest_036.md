@@ -1,7 +1,10 @@
 ---
-title: Kapitola dvacátá čtvrtá Magnetová hora přitahuje
+title: ''
 contentType: prose
 ---
+
+## Kapitola dvacátá čtvrtá  
+Magnetová hora přitahuje
 
   
 

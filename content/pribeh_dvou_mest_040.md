@@ -1,7 +1,10 @@
 ---
-title: Kapitola třetí Stín
+title: ''
 contentType: prose
 ---
+
+## Kapitola třetí  
+Stín
 
   
 
