@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola třetí Noční stíny
 contentType: prose
 ---
-
-### Kapitola třetí  
-Noční stíny
 
   
 

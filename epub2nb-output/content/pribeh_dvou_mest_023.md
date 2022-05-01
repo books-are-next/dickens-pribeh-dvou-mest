@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola jedenáctá Protějšek
 contentType: prose
 ---
-
-### Kapitola jedenáctá  
-Protějšek
 
   
 

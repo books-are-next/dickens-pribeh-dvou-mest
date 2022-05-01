@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola třetí Zklamání
 contentType: prose
 ---
-
-### Kapitola třetí  
-Zklamání
 
   
 

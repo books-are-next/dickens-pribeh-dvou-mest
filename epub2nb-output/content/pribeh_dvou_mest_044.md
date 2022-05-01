@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola sedmá Zaklepání na dveře
 contentType: prose
 ---
-
-### Kapitola sedmá  
-Zaklepání na dveře
 
   
 

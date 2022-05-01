@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola druhá Dostavník
 contentType: prose
 ---
-
-### Kapitola druhá  
-Dostavník
 
   
 

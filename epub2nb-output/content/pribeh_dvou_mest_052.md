@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola patnáctá Kroky doznívají navždy
 contentType: prose
 ---
-
-### Kapitola patnáctá  
-Kroky doznívají navždy
 
   
 

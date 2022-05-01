@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola osmnáctá Devět dní
 contentType: prose
 ---
-
-### Kapitola osmnáctá  
-Devět dní
 
   
 
