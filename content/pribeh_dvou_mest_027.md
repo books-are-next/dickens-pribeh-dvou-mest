@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola patnáctá Pletení
 contentType: prose
 ---
-
-### Kapitola patnáctá  
-Pletení
 
   
 

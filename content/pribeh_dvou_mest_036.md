@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola dvacátá čtvrtá Magnetová hora přitahuje
 contentType: prose
 ---
-
-### Kapitola dvacátá čtvrtá  
-Magnetová hora přitahuje
 
   
 
@@ -118,9 +115,9 @@ Nespokojen sám se sebou, se Stryverem i s mnoha jinými lidmi, pospíšil si 
 
 _Vězení Abbaye, Paříž, 21. června 1792._
 
-> Bývalý pane markýzi,
+Bývalý pane markýzi,
 
-> když mě vesnice, jíž jsem byl vydán na pospas, dlouho ohrožovala na životě, velmi násilně a potupně mě zajali a pěšky odvedli dlouhou cestou do Paříže. Po cestě jsem mnoho vytrpěl. Ale to není všechno; můj dům byl zničen – srovnán se zemí.
+když mě vesnice, jíž jsem byl vydán na pospas, dlouho ohrožovala na životě, velmi násilně a potupně mě zajali a pěšky odvedli dlouhou cestou do Paříže. Po cestě jsem mnoho vytrpěl. Ale to není všechno; můj dům byl zničen – srovnán se zemí.
 
 Zločin, pro který jsem vězněn, bývalý pane markýzi, pro který mě bude tribunál soudit a pro který (jestliže se mi nedostane Vaší šlechetné pomoci) budu popraven, je, jak mi říkají, zločin zrady na majestátu lidu, jehož jsem se dopustil, když jsem jednal proti tomuto majestátu ve prospěch vyhnance. Marně poukazuji na to, že jsem podle Vašich příkazů jednal ve prospěch lidu, nikoli proti němu. Marně poukazuji na to, že jsem již před zabavením majetku vystěhovalců prominul všechny daně, které přestali platit, že jsem vůbec nevybíral nájemné, že jsem nikoho nepohnal před soud. Odpovídají mi jen, že jsem jednal ve prospěch vystěhovalce, a kde prý je ten vystěhovalec?
 
@@ -187,6 +184,6 @@ Síla, kterou neviděl, rychle ho teď už k sobě přitahovala a všechny pro
 
 * * *
 
-[3](./resources/undefined) Zpustlý, prostopášný, hýřivý. _Pozn. red._
+[3](./resources/undefined) Zpustlý, prostopášný, hýřivý. Pozn. red.
 
-[4](./resources/undefined) Chráněnci. _Pozn. red._
+[4](./resources/undefined) Chráněnci. Pozn. red.

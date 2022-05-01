@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola druhá Brus
 contentType: prose
 ---
-
-### Kapitola druhá  
-Brus
 
   
 

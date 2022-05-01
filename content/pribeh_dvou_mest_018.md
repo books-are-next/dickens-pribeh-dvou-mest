@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola šestá Stovky lidí
 contentType: prose
 ---
-
-### Kapitola šestá  
-Stovky lidí
 
   
 

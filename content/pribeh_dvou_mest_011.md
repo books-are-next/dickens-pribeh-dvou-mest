@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola šestá Obuvník
 contentType: prose
 ---
-
-### Kapitola šestá  
-Obuvník
 
   
 
@@ -224,4 +221,4 @@ A onu starou odpověď:
 
 * * *
 
-[1](./resources/undefined) Zakřivený obuvnický nůž. _Pozn. red._
+[1](./resources/undefined) Zakřivený obuvnický nůž. Pozn. red.

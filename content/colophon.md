@@ -19,7 +19,7 @@ Znění tohoto textu vychází z díla [Příběh dvou měst](https://search.ml
 
 Podle předlohy z fondu Moravské zemské knihovny v Brně.
 
-**§**
+§
 
 Text díla (Charles Dickens: Příběh dvou měst), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), je vázán autorskými právy a jeho použití je definováno [Autorským zákonem](https://www.mkcr.cz/predpisy-zakonu-709.html) č. 121/2000 Sb.
 

@@ -1,10 +1,7 @@
 ---
-title: ''
+title: Kapitola čtrnáctá Počestný obchodník
 contentType: prose
 ---
-
-### Kapitola čtrnáctá  
-Počestný obchodník
 
   
 
