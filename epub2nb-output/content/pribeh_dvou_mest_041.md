@@ -1,7 +1,10 @@
 ---
-title: Kapitola čtvrtá Klid za bouře
+title: ''
 contentType: prose
 ---
+
+## Kapitola čtvrtá  
+Klid za bouře
 
   
 

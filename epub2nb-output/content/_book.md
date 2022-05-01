@@ -314,7 +314,7 @@ tocBase:
             hiddenTitle: false
         listType: plain
     isSection: true
-    listType: bulleted
+    listType: plain
 static:
   - style
   - scripts

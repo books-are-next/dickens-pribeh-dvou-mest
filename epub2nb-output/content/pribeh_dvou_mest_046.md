@@ -1,7 +1,10 @@
 ---
-title: Kapitola devátá Hra dohrána
+title: ''
 contentType: prose
 ---
+
+## Kapitola devátá  
+Hra dohrána
 
   
 

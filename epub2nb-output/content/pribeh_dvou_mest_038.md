@@ -1,7 +1,10 @@
 ---
-title: Kapitola první Tajná záležitost
+title: ''
 contentType: prose
 ---
+
+## Kapitola první  
+Tajná záležitost
 
   
 

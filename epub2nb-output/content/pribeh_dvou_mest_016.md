@@ -1,7 +1,10 @@
 ---
-title: Kapitola čtvrtá Blahopřání
+title: ''
 contentType: prose
 ---
+
+## Kapitola čtvrtá  
+Blahopřání
 
   
 

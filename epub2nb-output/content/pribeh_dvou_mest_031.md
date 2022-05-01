@@ -1,7 +1,10 @@
 ---
-title: Kapitola devatenáctá Mínění
+title: ''
 contentType: prose
 ---
+
+## Kapitola devatenáctá  
+Mínění
 
   
 

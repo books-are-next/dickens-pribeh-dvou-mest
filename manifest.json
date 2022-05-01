@@ -1,17 +1,17 @@
 {
   "author": "Charles Dickens",
   "contenttype": "prose",
-  "identifier": "dickens-pribeh-dvou-mest-fa79b3b",
+  "identifier": "dickens-pribeh-dvou-mest-a201a33",
   "isbn": "978-80-86069-67-8",
   "languagecode": "cs",
   "modified": "2022-02-24T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Příběh dvou měst",
-  "revision": "fa79b3b",
+  "revision": "a201a33",
   "generatedAt": {
-    "date": "Mon Apr 25 2022 18:17:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650910642193
+    "date": "Sun May 01 2022 22:33:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651444437870
   },
   "documents": [
     {
@@ -55,11 +55,11 @@
       ]
     },
     {
-      "title": "Kapitola první Doba • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_006.html",
       "words": 844,
-      "chars": 5323,
-      "ideas": 7,
+      "chars": 5322,
+      "ideas": 8,
       "role": "chapter",
       "order": 2,
       "prev": "pribeh_dvou_mest_005.html",
@@ -68,18 +68,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola první Doba",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola první",
+              "id": "kapitola-první",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola druhá Dostavník • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_007.html",
       "words": 1769,
-      "chars": 10566,
-      "ideas": 60,
+      "chars": 10565,
+      "ideas": 61,
       "role": "chapter",
       "order": 3,
       "prev": "pribeh_dvou_mest_006.html",
@@ -88,18 +96,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola druhá Dostavník",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola druhá",
+              "id": "kapitola-druhá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola třetí Noční stíny • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_008.html",
       "words": 1411,
-      "chars": 8492,
-      "ideas": 35,
+      "chars": 8491,
+      "ideas": 36,
       "role": "chapter",
       "order": 4,
       "prev": "pribeh_dvou_mest_007.html",
@@ -108,18 +124,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola třetí Noční stíny",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola třetí",
+              "id": "kapitola-třetí",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola čtvrtá Příprava • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_009.html",
       "words": 3941,
-      "chars": 23438,
-      "ideas": 101,
+      "chars": 23437,
+      "ideas": 102,
       "role": "chapter",
       "order": 5,
       "prev": "pribeh_dvou_mest_008.html",
@@ -128,18 +152,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola čtvrtá Příprava",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola čtvrtá",
+              "id": "kapitola-čtvrtá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola pátá Vinárna • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_010.html",
       "words": 3646,
-      "chars": 21708,
-      "ideas": 80,
+      "chars": 21707,
+      "ideas": 81,
       "role": "chapter",
       "order": 6,
       "prev": "pribeh_dvou_mest_009.html",
@@ -148,18 +180,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola pátá Vinárna",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola pátá",
+              "id": "kapitola-pátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola šestá Obuvník • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_011.html",
       "words": 3643,
-      "chars": 21110,
-      "ideas": 109,
+      "chars": 21109,
+      "ideas": 110,
       "role": "chapter",
       "order": 7,
       "prev": "pribeh_dvou_mest_010.html",
@@ -168,9 +208,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola šestá Obuvník",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola šestá",
+              "id": "kapitola-šestá",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -195,11 +243,11 @@
       ]
     },
     {
-      "title": "Kapitola první O pět let později • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_013.html",
       "words": 2260,
-      "chars": 13494,
-      "ideas": 36,
+      "chars": 13493,
+      "ideas": 37,
       "role": "chapter",
       "order": 9,
       "prev": "pribeh_dvou_mest_012.html",
@@ -208,18 +256,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola první O pět let později",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola první",
+              "id": "kapitola-první",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola druhá Podívaná • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_014.html",
       "words": 2171,
-      "chars": 13047,
-      "ideas": 56,
+      "chars": 13046,
+      "ideas": 57,
       "role": "chapter",
       "order": 10,
       "prev": "pribeh_dvou_mest_013.html",
@@ -228,18 +284,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola druhá Podívaná",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola druhá",
+              "id": "kapitola-druhá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola třetí Zklamání • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_015.html",
       "words": 4325,
-      "chars": 26050,
-      "ideas": 133,
+      "chars": 26049,
+      "ideas": 134,
       "role": "chapter",
       "order": 11,
       "prev": "pribeh_dvou_mest_014.html",
@@ -248,18 +312,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola třetí Zklamání",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola třetí",
+              "id": "kapitola-třetí",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola čtvrtá Blahopřání • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_016.html",
       "words": 2084,
-      "chars": 12059,
-      "ideas": 76,
+      "chars": 12058,
+      "ideas": 77,
       "role": "chapter",
       "order": 12,
       "prev": "pribeh_dvou_mest_015.html",
@@ -268,18 +340,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola čtvrtá Blahopřání",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola čtvrtá",
+              "id": "kapitola-čtvrtá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola pátá Muž pro všechno • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_017.html",
       "words": 1915,
-      "chars": 11181,
-      "ideas": 64,
+      "chars": 11180,
+      "ideas": 65,
       "role": "chapter",
       "order": 13,
       "prev": "pribeh_dvou_mest_016.html",
@@ -288,18 +368,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola pátá Muž pro všechno",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola pátá",
+              "id": "kapitola-pátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola šestá Stovky lidí • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_018.html",
       "words": 4185,
-      "chars": 24640,
-      "ideas": 112,
+      "chars": 24639,
+      "ideas": 113,
       "role": "chapter",
       "order": 14,
       "prev": "pribeh_dvou_mest_017.html",
@@ -308,18 +396,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola šestá Stovky lidí",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola šestá",
+              "id": "kapitola-šestá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola sedmá Milostivý pán v městě • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_019.html",
       "words": 2953,
-      "chars": 18080,
-      "ideas": 42,
+      "chars": 18079,
+      "ideas": 43,
       "role": "chapter",
       "order": 15,
       "prev": "pribeh_dvou_mest_018.html",
@@ -328,18 +424,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola sedmá Milostivý pán v městě",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola sedmá",
+              "id": "kapitola-sedmá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola osmá Milostivý pán na venkově • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_020.html",
       "words": 1628,
-      "chars": 9606,
-      "ideas": 65,
+      "chars": 9605,
+      "ideas": 66,
       "role": "chapter",
       "order": 16,
       "prev": "pribeh_dvou_mest_019.html",
@@ -348,18 +452,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola osmá Milostivý pán na venkově",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola osmá",
+              "id": "kapitola-osmá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola devátá Gorgonina hlava • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_021.html",
       "words": 3585,
-      "chars": 21637,
-      "ideas": 114,
+      "chars": 21636,
+      "ideas": 115,
       "role": "chapter",
       "order": 17,
       "prev": "pribeh_dvou_mest_020.html",
@@ -368,18 +480,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola devátá Gorgonina hlava",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola devátá",
+              "id": "kapitola-devátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola desátá Dva sliby • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_022.html",
       "words": 2611,
-      "chars": 14908,
-      "ideas": 88,
+      "chars": 14907,
+      "ideas": 89,
       "role": "chapter",
       "order": 18,
       "prev": "pribeh_dvou_mest_021.html",
@@ -388,18 +508,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola desátá Dva sliby",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola desátá",
+              "id": "kapitola-desátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola jedenáctá Protějšek • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_023.html",
       "words": 1202,
-      "chars": 7001,
-      "ideas": 47,
+      "chars": 7000,
+      "ideas": 48,
       "role": "chapter",
       "order": 19,
       "prev": "pribeh_dvou_mest_022.html",
@@ -408,18 +536,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola jedenáctá Protějšek",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola jedenáctá",
+              "id": "kapitola-jedenáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvanáctá Jemný člověk • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_024.html",
       "words": 2339,
-      "chars": 13688,
-      "ideas": 66,
+      "chars": 13687,
+      "ideas": 67,
       "role": "chapter",
       "order": 20,
       "prev": "pribeh_dvou_mest_023.html",
@@ -428,18 +564,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvanáctá Jemný člověk",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvanáctá",
+              "id": "kapitola-dvanáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola třináctá Člověk bez jemnosti • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_025.html",
       "words": 1693,
-      "chars": 9620,
-      "ideas": 45,
+      "chars": 9619,
+      "ideas": 46,
       "role": "chapter",
       "order": 21,
       "prev": "pribeh_dvou_mest_024.html",
@@ -448,18 +592,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola třináctá Člověk bez jemnosti",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola třináctá",
+              "id": "kapitola-třináctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola čtrnáctá Počestný obchodník • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_026.html",
       "words": 3521,
-      "chars": 20724,
-      "ideas": 82,
+      "chars": 20723,
+      "ideas": 83,
       "role": "chapter",
       "order": 22,
       "prev": "pribeh_dvou_mest_025.html",
@@ -468,18 +620,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola čtrnáctá Počestný obchodník",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola čtrnáctá",
+              "id": "kapitola-čtrnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola patnáctá Pletení • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_027.html",
       "words": 3768,
-      "chars": 21752,
-      "ideas": 98,
+      "chars": 21751,
+      "ideas": 99,
       "role": "chapter",
       "order": 23,
       "prev": "pribeh_dvou_mest_026.html",
@@ -488,18 +648,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola patnáctá Pletení",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola patnáctá",
+              "id": "kapitola-patnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola šestnáctá Ještě pletení • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_028.html",
       "words": 3513,
-      "chars": 20804,
-      "ideas": 122,
+      "chars": 20803,
+      "ideas": 123,
       "role": "chapter",
       "order": 24,
       "prev": "pribeh_dvou_mest_027.html",
@@ -508,18 +676,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola šestnáctá Ještě pletení",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola šestnáctá",
+              "id": "kapitola-šestnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola sedmnáctá Jedna noc • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_029.html",
       "words": 1742,
-      "chars": 9844,
-      "ideas": 43,
+      "chars": 9843,
+      "ideas": 44,
       "role": "chapter",
       "order": 25,
       "prev": "pribeh_dvou_mest_028.html",
@@ -528,18 +704,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola sedmnáctá Jedna noc",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola sedmnáctá",
+              "id": "kapitola-sedmnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola osmnáctá Devět dní • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_030.html",
       "words": 2162,
-      "chars": 12729,
-      "ideas": 55,
+      "chars": 12728,
+      "ideas": 56,
       "role": "chapter",
       "order": 26,
       "prev": "pribeh_dvou_mest_029.html",
@@ -548,18 +732,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola osmnáctá Devět dní",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola osmnáctá",
+              "id": "kapitola-osmnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola devatenáctá Mínění • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_031.html",
       "words": 2490,
-      "chars": 14747,
-      "ideas": 68,
+      "chars": 14746,
+      "ideas": 69,
       "role": "chapter",
       "order": 27,
       "prev": "pribeh_dvou_mest_030.html",
@@ -568,18 +760,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola devatenáctá Mínění",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola devatenáctá",
+              "id": "kapitola-devatenáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvacátá Obhajoba • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_032.html",
       "words": 1231,
-      "chars": 7115,
-      "ideas": 46,
+      "chars": 7114,
+      "ideas": 47,
       "role": "chapter",
       "order": 28,
       "prev": "pribeh_dvou_mest_031.html",
@@ -588,18 +788,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvacátá Obhajoba",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvacátá",
+              "id": "kapitola-dvacátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvacátá první Ozvěny kroků • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_033.html",
       "words": 3743,
-      "chars": 22613,
-      "ideas": 84,
+      "chars": 22612,
+      "ideas": 85,
       "role": "chapter",
       "order": 29,
       "prev": "pribeh_dvou_mest_032.html",
@@ -608,18 +816,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvacátá první Ozvěny kroků",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvacátá první",
+              "id": "kapitola-dvacátá-první",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvacátá druhá Bouře trvá • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_034.html",
       "words": 1789,
-      "chars": 10665,
-      "ideas": 35,
+      "chars": 10664,
+      "ideas": 36,
       "role": "chapter",
       "order": 30,
       "prev": "pribeh_dvou_mest_033.html",
@@ -628,18 +844,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvacátá druhá Bouře trvá",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvacátá druhá",
+              "id": "kapitola-dvacátá-druhá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvacátá třetí Požár mohutní • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_035.html",
       "words": 2192,
-      "chars": 13288,
-      "ideas": 47,
+      "chars": 13287,
+      "ideas": 48,
       "role": "chapter",
       "order": 31,
       "prev": "pribeh_dvou_mest_034.html",
@@ -648,18 +872,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvacátá třetí Požár mohutní",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvacátá třetí",
+              "id": "kapitola-dvacátá-třetí",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvacátá čtvrtá Magnetová hora přitahuje • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_036.html",
       "words": 3936,
-      "chars": 23469,
-      "ideas": 92,
+      "chars": 23468,
+      "ideas": 93,
       "role": "chapter",
       "order": 32,
       "prev": "pribeh_dvou_mest_035.html",
@@ -668,9 +900,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvacátá čtvrtá Magnetová hora přitahuje",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvacátá čtvrtá",
+              "id": "kapitola-dvacátá-čtvrtá",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -695,11 +935,11 @@
       ]
     },
     {
-      "title": "Kapitola první Tajná záležitost • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_038.html",
       "words": 3692,
-      "chars": 22456,
-      "ideas": 108,
+      "chars": 22455,
+      "ideas": 109,
       "role": "chapter",
       "order": 34,
       "prev": "pribeh_dvou_mest_037.html",
@@ -708,18 +948,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola první Tajná záležitost",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola první",
+              "id": "kapitola-první",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola druhá Brus • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_039.html",
       "words": 2255,
-      "chars": 13208,
-      "ideas": 41,
+      "chars": 13207,
+      "ideas": 42,
       "role": "chapter",
       "order": 35,
       "prev": "pribeh_dvou_mest_038.html",
@@ -728,18 +976,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola druhá Brus",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola druhá",
+              "id": "kapitola-druhá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola třetí Stín • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_040.html",
       "words": 1577,
-      "chars": 9417,
-      "ideas": 54,
+      "chars": 9416,
+      "ideas": 55,
       "role": "chapter",
       "order": 36,
       "prev": "pribeh_dvou_mest_039.html",
@@ -748,18 +1004,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola třetí Stín",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola třetí",
+              "id": "kapitola-třetí",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola čtvrtá Klid za bouře • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_041.html",
       "words": 1865,
-      "chars": 11274,
-      "ideas": 14,
+      "chars": 11273,
+      "ideas": 15,
       "role": "chapter",
       "order": 37,
       "prev": "pribeh_dvou_mest_040.html",
@@ -768,18 +1032,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola čtvrtá Klid za bouře",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola čtvrtá",
+              "id": "kapitola-čtvrtá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola pátá Řezač dříví • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_042.html",
       "words": 2067,
-      "chars": 11936,
-      "ideas": 52,
+      "chars": 11935,
+      "ideas": 53,
       "role": "chapter",
       "order": 38,
       "prev": "pribeh_dvou_mest_041.html",
@@ -788,18 +1060,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola pátá Řezač dříví",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola pátá",
+              "id": "kapitola-pátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola šestá Vítězství • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_043.html",
       "words": 2176,
-      "chars": 13183,
-      "ideas": 46,
+      "chars": 13182,
+      "ideas": 47,
       "role": "chapter",
       "order": 39,
       "prev": "pribeh_dvou_mest_042.html",
@@ -808,18 +1088,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola šestá Vítězství",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola šestá",
+              "id": "kapitola-šestá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola sedmá Zaklepání na dveře • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_044.html",
       "words": 1646,
-      "chars": 9899,
-      "ideas": 57,
+      "chars": 9898,
+      "ideas": 58,
       "role": "chapter",
       "order": 40,
       "prev": "pribeh_dvou_mest_043.html",
@@ -828,18 +1116,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola sedmá Zaklepání na dveře",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola sedmá",
+              "id": "kapitola-sedmá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola osmá Karty v rukou • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_045.html",
       "words": 4261,
-      "chars": 25357,
-      "ideas": 127,
+      "chars": 25356,
+      "ideas": 128,
       "role": "chapter",
       "order": 41,
       "prev": "pribeh_dvou_mest_044.html",
@@ -848,18 +1144,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola osmá Karty v rukou",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola osmá",
+              "id": "kapitola-osmá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola devátá Hra dohrána • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_046.html",
       "words": 4200,
-      "chars": 24621,
-      "ideas": 128,
+      "chars": 24620,
+      "ideas": 129,
       "role": "chapter",
       "order": 42,
       "prev": "pribeh_dvou_mest_045.html",
@@ -868,18 +1172,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola devátá Hra dohrána",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola devátá",
+              "id": "kapitola-devátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola desátá Podstata stínu • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_047.html",
       "words": 4987,
-      "chars": 29097,
-      "ideas": 117,
+      "chars": 29096,
+      "ideas": 118,
       "role": "chapter",
       "order": 43,
       "prev": "pribeh_dvou_mest_046.html",
@@ -888,18 +1200,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola desátá Podstata stínu",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola desátá",
+              "id": "kapitola-desátá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola jedenáctá Soumrak • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_048.html",
       "words": 1297,
-      "chars": 7386,
-      "ideas": 44,
+      "chars": 7385,
+      "ideas": 45,
       "role": "chapter",
       "order": 44,
       "prev": "pribeh_dvou_mest_047.html",
@@ -908,18 +1228,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola jedenáctá Soumrak",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola jedenáctá",
+              "id": "kapitola-jedenáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola dvanáctá Tma • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_049.html",
       "words": 2774,
-      "chars": 16126,
-      "ideas": 87,
+      "chars": 16125,
+      "ideas": 88,
       "role": "chapter",
       "order": 45,
       "prev": "pribeh_dvou_mest_048.html",
@@ -928,18 +1256,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola dvanáctá Tma",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola dvanáctá",
+              "id": "kapitola-dvanáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola třináctá Padesát dva • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_050.html",
       "words": 3772,
-      "chars": 22420,
-      "ideas": 141,
+      "chars": 22419,
+      "ideas": 142,
       "role": "chapter",
       "order": 46,
       "prev": "pribeh_dvou_mest_049.html",
@@ -948,18 +1284,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola třináctá Padesát dva",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola třináctá",
+              "id": "kapitola-třináctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola čtrnáctá Pletení skončeno • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_051.html",
       "words": 4029,
-      "chars": 24297,
-      "ideas": 110,
+      "chars": 24296,
+      "ideas": 111,
       "role": "chapter",
       "order": 47,
       "prev": "pribeh_dvou_mest_050.html",
@@ -968,18 +1312,26 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola čtrnáctá Pletení skončeno",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola čtrnáctá",
+              "id": "kapitola-čtrnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
     {
-      "title": "Kapitola patnáctá Kroky doznívají navždy • Příběh dvou měst",
+      "title": "Příběh dvou měst",
       "file": "pribeh_dvou_mest_052.html",
       "words": 1855,
-      "chars": 10810,
-      "ideas": 51,
+      "chars": 10809,
+      "ideas": 52,
       "role": "chapter",
       "order": 48,
       "prev": "pribeh_dvou_mest_051.html",
@@ -988,9 +1340,17 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola patnáctá Kroky doznívají navždy",
+          "name": null,
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kapitola patnáctá",
+              "id": "kapitola-patnáctá",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -1018,13 +1378,13 @@
   "totals": {
     "all": {
       "words": 120929,
-      "chars": 716056,
-      "ideas": 3316
+      "chars": 716011,
+      "ideas": 3361
     },
     "chapters": {
       "words": 120758,
-      "chars": 714960,
-      "ideas": 3288
+      "chars": 714915,
+      "ideas": 3333
     }
   }
 }

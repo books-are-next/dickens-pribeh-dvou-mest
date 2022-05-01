@@ -1,7 +1,10 @@
 ---
-title: Kapitola desátá Podstata stínu
+title: ''
 contentType: prose
 ---
+
+## Kapitola desátá  
+Podstata stínu
 
   
 

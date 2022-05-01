@@ -1,7 +1,10 @@
 ---
-title: "Kapitola osmá Karty v\_rukou"
+title: ''
 contentType: prose
 ---
+
+## Kapitola osmá  
+Karty v rukou
 
   
 

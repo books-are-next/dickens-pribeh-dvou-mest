@@ -1,7 +1,10 @@
 ---
-title: Kapitola dvacátá třetí Požár mohutní
+title: ''
 contentType: prose
 ---
+
+## Kapitola dvacátá třetí  
+Požár mohutní
 
   
 

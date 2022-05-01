@@ -1,7 +1,10 @@
 ---
-title: Kapitola čtvrtá Příprava
+title: ''
 contentType: prose
 ---
+
+## Kapitola čtvrtá  
+Příprava
 
   
 

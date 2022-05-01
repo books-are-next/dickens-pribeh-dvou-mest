@@ -1,7 +1,10 @@
 ---
-title: Kapitola devátá Gorgonina hlava
+title: ''
 contentType: prose
 ---
+
+## Kapitola devátá  
+Gorgonina hlava
 
   
 

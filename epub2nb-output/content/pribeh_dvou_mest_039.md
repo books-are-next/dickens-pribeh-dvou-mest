@@ -1,7 +1,10 @@
 ---
-title: Kapitola druhá Brus
+title: ''
 contentType: prose
 ---
+
+## Kapitola druhá  
+Brus
 
   
 

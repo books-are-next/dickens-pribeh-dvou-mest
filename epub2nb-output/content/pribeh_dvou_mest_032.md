@@ -1,7 +1,10 @@
 ---
-title: Kapitola dvacátá Obhajoba
+title: ''
 contentType: prose
 ---
+
+## Kapitola dvacátá  
+Obhajoba
 
   
 

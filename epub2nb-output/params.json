@@ -12,9 +12,9 @@
       "isbn": "978-80-86069-67-8"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP_uroven2_kapitola\nMLP_uroven1_cast\n",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\n",
       "subtitle": "",
-      "h2": "MLP_uroven1_cast\nMLP_uroven3_nadpis\nMLP_uroven2_kapitola",
+      "h2": "MLP_uroven2_kapitola",
       "h3": "MLP_uroven3_nadpis",
       "h4": "",
       "hr": "",
@@ -34,7 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "bulleted",
+        "listType": "plain",
         "children": [
           {
             "filename": "pribeh_dvou_mest_001.md",
@@ -767,37 +767,37 @@
         "xhtml": "pribeh_dvou_mest_005.xhtml"
       },
       {
-        "titleSuggest": "Kapitola první Doba",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_006.md",
         "xhtml": "pribeh_dvou_mest_006.xhtml"
       },
       {
-        "titleSuggest": "Kapitola druhá Dostavník",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_007.md",
         "xhtml": "pribeh_dvou_mest_007.xhtml"
       },
       {
-        "titleSuggest": "Kapitola třetí Noční stíny",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_008.md",
         "xhtml": "pribeh_dvou_mest_008.xhtml"
       },
       {
-        "titleSuggest": "Kapitola čtvrtá Příprava",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_009.md",
         "xhtml": "pribeh_dvou_mest_009.xhtml"
       },
       {
-        "titleSuggest": "Kapitola pátá Vinárna",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_010.md",
         "xhtml": "pribeh_dvou_mest_010.xhtml"
       },
       {
-        "titleSuggest": "Kapitola šestá Obuvník",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_011.md",
         "xhtml": "pribeh_dvou_mest_011.xhtml"
@@ -809,145 +809,145 @@
         "xhtml": "pribeh_dvou_mest_012.xhtml"
       },
       {
-        "titleSuggest": "Kapitola první O pět let později",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_013.md",
         "xhtml": "pribeh_dvou_mest_013.xhtml"
       },
       {
-        "titleSuggest": "Kapitola druhá Podívaná",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_014.md",
         "xhtml": "pribeh_dvou_mest_014.xhtml"
       },
       {
-        "titleSuggest": "Kapitola třetí Zklamání",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_015.md",
         "xhtml": "pribeh_dvou_mest_015.xhtml"
       },
       {
-        "titleSuggest": "Kapitola čtvrtá Blahopřání",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_016.md",
         "xhtml": "pribeh_dvou_mest_016.xhtml"
       },
       {
-        "titleSuggest": "Kapitola pátá Muž pro všechno",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_017.md",
         "xhtml": "pribeh_dvou_mest_017.xhtml"
       },
       {
-        "titleSuggest": "Kapitola šestá Stovky lidí",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_018.md",
         "xhtml": "pribeh_dvou_mest_018.xhtml"
       },
       {
-        "titleSuggest": "Kapitola sedmá Milostivý pán v městě",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_019.md",
         "xhtml": "pribeh_dvou_mest_019.xhtml"
       },
       {
-        "titleSuggest": "Kapitola osmá Milostivý pán na venkově",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_020.md",
         "xhtml": "pribeh_dvou_mest_020.xhtml"
       },
       {
-        "titleSuggest": "Kapitola devátá Gorgonina hlava",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_021.md",
         "xhtml": "pribeh_dvou_mest_021.xhtml"
       },
       {
-        "titleSuggest": "Kapitola desátá Dva sliby",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_022.md",
         "xhtml": "pribeh_dvou_mest_022.xhtml"
       },
       {
-        "titleSuggest": "Kapitola jedenáctá Protějšek",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_023.md",
         "xhtml": "pribeh_dvou_mest_023.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvanáctá Jemný člověk",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_024.md",
         "xhtml": "pribeh_dvou_mest_024.xhtml"
       },
       {
-        "titleSuggest": "Kapitola třináctá Člověk bez jemnosti",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_025.md",
         "xhtml": "pribeh_dvou_mest_025.xhtml"
       },
       {
-        "titleSuggest": "Kapitola čtrnáctá Počestný obchodník",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_026.md",
         "xhtml": "pribeh_dvou_mest_026.xhtml"
       },
       {
-        "titleSuggest": "Kapitola patnáctá Pletení",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_027.md",
         "xhtml": "pribeh_dvou_mest_027.xhtml"
       },
       {
-        "titleSuggest": "Kapitola šestnáctá Ještě pletení",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_028.md",
         "xhtml": "pribeh_dvou_mest_028.xhtml"
       },
       {
-        "titleSuggest": "Kapitola sedmnáctá Jedna noc",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_029.md",
         "xhtml": "pribeh_dvou_mest_029.xhtml"
       },
       {
-        "titleSuggest": "Kapitola osmnáctá Devět dní",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_030.md",
         "xhtml": "pribeh_dvou_mest_030.xhtml"
       },
       {
-        "titleSuggest": "Kapitola devatenáctá Mínění",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_031.md",
         "xhtml": "pribeh_dvou_mest_031.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvacátá Obhajoba",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_032.md",
         "xhtml": "pribeh_dvou_mest_032.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvacátá první Ozvěny kroků",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_033.md",
         "xhtml": "pribeh_dvou_mest_033.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvacátá druhá Bouře trvá",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_034.md",
         "xhtml": "pribeh_dvou_mest_034.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvacátá třetí Požár mohutní",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_035.md",
         "xhtml": "pribeh_dvou_mest_035.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvacátá čtvrtá Magnetová hora přitahuje",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_036.md",
         "xhtml": "pribeh_dvou_mest_036.xhtml"
@@ -959,91 +959,91 @@
         "xhtml": "pribeh_dvou_mest_037.xhtml"
       },
       {
-        "titleSuggest": "Kapitola první Tajná záležitost",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_038.md",
         "xhtml": "pribeh_dvou_mest_038.xhtml"
       },
       {
-        "titleSuggest": "Kapitola druhá Brus",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_039.md",
         "xhtml": "pribeh_dvou_mest_039.xhtml"
       },
       {
-        "titleSuggest": "Kapitola třetí Stín",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_040.md",
         "xhtml": "pribeh_dvou_mest_040.xhtml"
       },
       {
-        "titleSuggest": "Kapitola čtvrtá Klid za bouře",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_041.md",
         "xhtml": "pribeh_dvou_mest_041.xhtml"
       },
       {
-        "titleSuggest": "Kapitola pátá Řezač dříví",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_042.md",
         "xhtml": "pribeh_dvou_mest_042.xhtml"
       },
       {
-        "titleSuggest": "Kapitola šestá Vítězství",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_043.md",
         "xhtml": "pribeh_dvou_mest_043.xhtml"
       },
       {
-        "titleSuggest": "Kapitola sedmá Zaklepání na dveře",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_044.md",
         "xhtml": "pribeh_dvou_mest_044.xhtml"
       },
       {
-        "titleSuggest": "Kapitola osmá Karty v rukou",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_045.md",
         "xhtml": "pribeh_dvou_mest_045.xhtml"
       },
       {
-        "titleSuggest": "Kapitola devátá Hra dohrána",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_046.md",
         "xhtml": "pribeh_dvou_mest_046.xhtml"
       },
       {
-        "titleSuggest": "Kapitola desátá Podstata stínu",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_047.md",
         "xhtml": "pribeh_dvou_mest_047.xhtml"
       },
       {
-        "titleSuggest": "Kapitola jedenáctá Soumrak",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_048.md",
         "xhtml": "pribeh_dvou_mest_048.xhtml"
       },
       {
-        "titleSuggest": "Kapitola dvanáctá Tma",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_049.md",
         "xhtml": "pribeh_dvou_mest_049.xhtml"
       },
       {
-        "titleSuggest": "Kapitola třináctá Padesát dva",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_050.md",
         "xhtml": "pribeh_dvou_mest_050.xhtml"
       },
       {
-        "titleSuggest": "Kapitola čtrnáctá Pletení skončeno",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_051.md",
         "xhtml": "pribeh_dvou_mest_051.xhtml"
       },
       {
-        "titleSuggest": "Kapitola patnáctá Kroky doznívají navždy",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "pribeh_dvou_mest_052.md",
         "xhtml": "pribeh_dvou_mest_052.xhtml"
@@ -1138,6 +1138,6 @@
       "user": "books-are-next",
       "repo": "dickens-pribeh-dvou-mest"
     },
-    "generatedAt": 1650910587982
+    "generatedAt": 1651444384545
   }
 }
