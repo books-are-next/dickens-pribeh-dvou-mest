@@ -12,9 +12,9 @@
       "isbn": "978-80-86069-67-8"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP_uroven2_kapitola\nMLP_uroven1_cast\n",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\n",
       "subtitle": "",
-      "h2": "MLP_uroven1_cast\nMLP_uroven3_nadpis\nMLP_uroven2_kapitola",
+      "h2": "MLP_uroven2_kapitola",
       "h3": "MLP_uroven3_nadpis",
       "h4": "",
       "hr": "",
@@ -34,7 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
-        "listType": "bulleted",
+        "listType": "plain",
         "children": [
           {
             "filename": "pribeh_dvou_mest_001.md",
@@ -1139,6 +1139,6 @@
       "user": "books-are-next",
       "repo": "dickens-pribeh-dvou-mest"
     },
-    "generatedAt": 1650827860120
+    "generatedAt": 1650910587982
   }
 }
