@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-## Kapitola osmá  
+### Kapitola osmá  
 Karty v rukou
 
   

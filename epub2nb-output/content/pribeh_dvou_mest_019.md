@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-## Kapitola sedmá  
+### Kapitola sedmá  
 Milostivý pán v městě
 
   

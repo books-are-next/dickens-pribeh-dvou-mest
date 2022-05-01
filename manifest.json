@@ -1,17 +1,17 @@
 {
   "author": "Charles Dickens",
   "contenttype": "prose",
-  "identifier": "dickens-pribeh-dvou-mest-a201a33",
+  "identifier": "dickens-pribeh-dvou-mest-668cf2d",
   "isbn": "978-80-86069-67-8",
   "languagecode": "cs",
   "modified": "2022-02-24T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Příběh dvou měst",
-  "revision": "a201a33",
+  "revision": "668cf2d",
   "generatedAt": {
-    "date": "Sun May 01 2022 22:33:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651444437870
+    "date": "Sun May 01 2022 22:50:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651445414856
   },
   "documents": [
     {
@@ -70,15 +70,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola první",
-              "id": "kapitola-první",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -98,15 +90,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola druhá",
-              "id": "kapitola-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -126,15 +110,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola třetí",
-              "id": "kapitola-třetí",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -154,15 +130,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola čtvrtá",
-              "id": "kapitola-čtvrtá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -182,15 +150,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola pátá",
-              "id": "kapitola-pátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -210,15 +170,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola šestá",
-              "id": "kapitola-šestá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -258,15 +210,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola první",
-              "id": "kapitola-první",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -286,15 +230,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola druhá",
-              "id": "kapitola-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -314,15 +250,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola třetí",
-              "id": "kapitola-třetí",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -342,15 +270,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola čtvrtá",
-              "id": "kapitola-čtvrtá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -370,15 +290,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola pátá",
-              "id": "kapitola-pátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -398,15 +310,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola šestá",
-              "id": "kapitola-šestá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -426,15 +330,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola sedmá",
-              "id": "kapitola-sedmá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -454,15 +350,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola osmá",
-              "id": "kapitola-osmá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -482,15 +370,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola devátá",
-              "id": "kapitola-devátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -510,15 +390,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola desátá",
-              "id": "kapitola-desátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -538,15 +410,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola jedenáctá",
-              "id": "kapitola-jedenáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -566,15 +430,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvanáctá",
-              "id": "kapitola-dvanáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -594,15 +450,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola třináctá",
-              "id": "kapitola-třináctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -622,15 +470,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola čtrnáctá",
-              "id": "kapitola-čtrnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -650,15 +490,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola patnáctá",
-              "id": "kapitola-patnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -678,15 +510,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola šestnáctá",
-              "id": "kapitola-šestnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -706,15 +530,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola sedmnáctá",
-              "id": "kapitola-sedmnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -734,15 +550,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola osmnáctá",
-              "id": "kapitola-osmnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -762,15 +570,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola devatenáctá",
-              "id": "kapitola-devatenáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -790,15 +590,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvacátá",
-              "id": "kapitola-dvacátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -818,15 +610,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvacátá první",
-              "id": "kapitola-dvacátá-první",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -846,15 +630,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvacátá druhá",
-              "id": "kapitola-dvacátá-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -874,15 +650,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvacátá třetí",
-              "id": "kapitola-dvacátá-třetí",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -902,15 +670,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvacátá čtvrtá",
-              "id": "kapitola-dvacátá-čtvrtá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -950,15 +710,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola první",
-              "id": "kapitola-první",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -978,15 +730,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola druhá",
-              "id": "kapitola-druhá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1006,15 +750,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola třetí",
-              "id": "kapitola-třetí",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1034,15 +770,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola čtvrtá",
-              "id": "kapitola-čtvrtá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1062,15 +790,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola pátá",
-              "id": "kapitola-pátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1090,15 +810,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola šestá",
-              "id": "kapitola-šestá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1118,15 +830,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola sedmá",
-              "id": "kapitola-sedmá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1146,15 +850,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola osmá",
-              "id": "kapitola-osmá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1174,15 +870,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola devátá",
-              "id": "kapitola-devátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1202,15 +890,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola desátá",
-              "id": "kapitola-desátá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1230,15 +910,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola jedenáctá",
-              "id": "kapitola-jedenáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1258,15 +930,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola dvanáctá",
-              "id": "kapitola-dvanáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1286,15 +950,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola třináctá",
-              "id": "kapitola-třináctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1314,15 +970,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola čtrnáctá",
-              "id": "kapitola-čtrnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -1342,15 +990,7 @@
           "level": 1,
           "name": null,
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola patnáctá",
-              "id": "kapitola-patnáctá",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
