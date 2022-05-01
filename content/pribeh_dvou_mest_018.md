@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-## Kapitola šestá  
+### Kapitola šestá  
 Stovky lidí
 
   

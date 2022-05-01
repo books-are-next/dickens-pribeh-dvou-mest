@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-## Kapitola desátá  
+### Kapitola desátá  
 Podstata stínu
 
   

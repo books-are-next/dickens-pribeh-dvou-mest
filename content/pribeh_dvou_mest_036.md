@@ -3,7 +3,7 @@ title: ''
 contentType: prose
 ---
 
-## Kapitola dvacátá čtvrtá  
+### Kapitola dvacátá čtvrtá  
 Magnetová hora přitahuje
 
   
