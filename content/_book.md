@@ -14,7 +14,7 @@ meta:
   publisherShort: MKP
   isbn: 978-80-86069-67-8
 readingOrder:
-  - pribeh_dvou_mest_002.html
+  - promo.html
   - pribeh_dvou_mest_005.html
   - pribeh_dvou_mest_006.html
   - pribeh_dvou_mest_007.html
