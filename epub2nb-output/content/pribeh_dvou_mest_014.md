@@ -3,6 +3,8 @@ title: Kapitola druhá Podívaná
 contentType: prose
 ---
 
+<section>
+
 „Jistě znáte dobře Old Bailey?“ pravil jeden z prastarých úředníků poslu Jerrymu.
 
 „Znám, pane,“ odpověděl Jerry jaksi rozmrzele. „To víte, že znám Bailey.“
@@ -112,3 +114,5 @@ Posel Jerry, jenž pozoroval po svém, myslil si svoje a olizoval si ze samého
 „Proti obžalovanému.“
 
 Soudce, jenž se zahleděl na chvíli týmž směrem jako všichni diváci, opřel se v křesle a zadíval se upřeně na muže, jehož život měl v svých rukou, zatím co již vstal generální prokurátor a jal se plést smyčku, brousit sekyru a zatloukat hřebíky do popraviště.
+
+</section>

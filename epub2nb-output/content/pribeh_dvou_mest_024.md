@@ -3,6 +3,8 @@ title: Kapitola dvanáctá Jemný člověk
 contentType: prose
 ---
 
+<section>
+
 Když si pan Stryver velkomyslně usmyslil obdařit doktorovu dceru dobrou partií, rozhodl se, že jí poví o tomto jejím štěstí ještě dříve, než sám odjede na soudní prázdniny z Londýna. Když o té věci trochu uvažoval, dospěl k závěru, že bude dobře vyřídit hned také všechny předběžné záležitosti a že by se pak svobodně mohli dohodnout, zda jí má dát svou ruku týden nebo dva před podzimním soudním zasedáním nebo o krátkých vánočních prázdninách mezi zasedáním podzimním a lednovým.
 
 Pokud šlo o jeho postavení v této při, neměl nejmenší pochybnosti a jasně už viděl před sebou, jak bude znít rozsudek. Tento případ, rozveden před porotou z hlediska čistě světského – z jediného hlediska, které stojí za to, aby se k němu přihlíželo –, byl zcela prostý a nebylo v něm slabin. Sám tu byl stranou žalující, jeho důkazy nebylo možno vyvrátit, a tak se obhájce strany žalované vzdal obhajoby a porota se ani neodešla radit. Když případ přezkoušel, přesvědčil se pan Stryver v úloze předsedy civilního soudu, že jasnější pře ani nemůže být.
@@ -132,3 +134,5 @@ A tak když k němu toho dne večer o desáté hodině přišel pan Lorry, vy
 Pan Lorry byl tak zaražen, že hleděl úplně tupě na pana Stryvera, jenž jej širokými rameny zvolna tlačil ke dveřím, tváře se přitom, jako by spouštěl na jeho popletenou hlavu jen samou šlechetnost, shovívavost a dobrou vůli. „Musíte to už nějak snést, drahý pane,“ hovořil Stryver; „už o tom nemluvte; děkuji vám, že jste mi dovolil, abych vás vyslechl; dobrou noc!“
 
 Pan Lorry stál na noční ulici dřív, než si vůbec uvědomil, kde je. Pan Stryver ležel na pohovce a usínajícíma očima se díval ke stropu.
+
+</section>

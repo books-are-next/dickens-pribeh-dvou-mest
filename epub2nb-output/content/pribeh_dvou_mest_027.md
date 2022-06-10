@@ -3,6 +3,8 @@ title: Kapitola patnáctá Pletení
 contentType: prose
 ---
 
+<section>
+
 Pilo se toho dne ve vinárně pana Defargea časněji než obvykle. Již o šesté hodině ranní bledé tváře, nahlížející zamřížovanými okny, objevily uvnitř jiné tváře, skloněné nad odměrkami vína. I za nejlepších dní prodával pan Defarge víno velmi zředěné, tentokrát však zřejmě prodával víno zředěné až neobvykle. A bylo to nadto víno kyselé či jakýsi kvas, neboť všechny, kdo je pili, uvádělo do pochmurné nálady. Z lisovaného hroznu pana Defargea nevyskakoval žádný vesele bakchantický plamen, nýbrž v jeho sedlině jen skrytě hořel doutnající oheň.
 
 To už bylo třetí jitro po sobě, kdy se ve vinárně pana Defargea tak časně pilo. Začalo to v pondělí a teď byla středa. Spíše to bylo jakési jitřní posedávání než popíjení, neboť tu od samého otevření dveří naslouchali, šeptali a obcházeli kolem stolů mnozí, kteří by nebyli mohli ani za spasení duše položit na pult jediný peníz. Ale s těmito lidmi se tu jednalo právě tak, jako by si byli mohli objednat celé sudy vína; přesedávali tu z místa na místo, přecházeli z kouta do kouta a místo vína dychtivě hltali, o čem se hovořilo.
@@ -196,3 +198,5 @@ Paní Defargeová se podívala na zákazníka spatra a souhlasně přikývla.
 „Je, paní.“
 
 „Dnes jste viděl loutky i ptáky,“ pravila paní Defargeová, ukazujíc rukou k místům, kde ty loutky a ptáky naposled viděli. „A teď se vraťte domů!“
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola jedenáctá Protějšek
 contentType: prose
 ---
 
+<section>
+
 „Sydneyi,“ pravil pan Stryver téže noci nebo jitra k svému muži pro všechno, „namíchej ještě jednu mísu punče; musím ti něco říci.“
 
 Této noci, minulé noci, předposlední noci a mnoho nocí ještě dřívějších pracoval Sydney dvojnásob, neboť bylo třeba udělat veliký úklid v listinách pana Stryvera, než nastanou dlouhé soudní prázdniny. Úklid byl konečně hotov, Stryverovy nedodělky byly vyřízeny, všechno bylo zpracováno a nyní nezbývalo než čekat na listopad s jeho mlhami povětrnostními i mlhovinami zákonnými, aby přinesl novou vodu na mlýn.
@@ -94,3 +96,5 @@ Když to tak řekl s blahobytnickou blahovolností, vypadal přitom dvakrát ta
 „Dovol mi, abych ti doporučil podívat se tomu přímo do tváře,“ pokračoval Stryver. „Já jsem se tomu již po svém do tváře podíval; ty se tomu podívej do tváře zas po svém. Ožeň se. Opatři si někoho, kdo by se o tebe staral. Nemysli na to, že tě ženská společnost netěší, že jí nerozumíš, že pro ni nemáš dost taktnosti. Najdi si někoho. Najdi si nějakou počestnou ženu s malým jměním – nějakou domácí paní nebo takovou, která pronajímá pokoje – a ožeň se s ní pro horší časy. To by bylo pro tebe to pravé. Mysli na to, Sydneyi.“
 
 „Budu na to myslit,“ pravil Sydney.
+
+</section>

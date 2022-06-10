@@ -3,6 +3,8 @@ title: Kapitola desátá Podstata stínu
 contentType: prose
 ---
 
+<section>
+
 „Já, Alexandre Manette, nešťastný lékař, narozený v Beauvais a bydlící pak v Paříži, píši tyto smutné zápisy v své žalostné kobce v Bastile v posledním měsíci roku 1767. Píši je potají v přestávkách a s všemožnými obtížemi. Zamýšlím je uschovat ve stěně komína, kde jsem pro ně po zdlouhavé práci připravil úkryt. Snad je tam nějaká slitovná ruka najde, až ze mne a z mých útrap bude pouhý prach.
 
 V posledním měsíci desátého roku svého uvěznění píši tato slova rezavým železným hrotem, který namáčím do seškrabaných sazí a spáleného dřeva, smíšeného s krví. Všechna naděje mě opustila. Podle strašlivých varování, jichž jsem si sám v sobě všiml, vím již, že moje rozumové schopnosti nezůstanou neporušeny, ale slavnostně zde prohlašuji, že v této chvíli jsem při plném rozumu – že moje vzpomínky jsou přesné i zevrubné – a že píši pravdu, neboť za tato svoje poslední zapsaná slova budu se zodpovídat před posledním soudem na věčnosti, ať už je budou lidé číst či nikoli.
@@ -234,3 +236,5 @@ A tím horší bylo pro muže, propadnuvšího osudu, že žalobcem byl známý
 Když porotci hlasovali, po každém odevzdání hlasu nastal křik. Další a další hlas. Další a další křik.
 
 Jednomyslně odhlasováno. Smýšlením a původem šlechtic, nepřítel Republiky, pověstný utlačovatel lidu. Zpět do Conciergerie a smrt do dvaceti čtyř hodin!
+
+</section>

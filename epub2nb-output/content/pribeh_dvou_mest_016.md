@@ -3,6 +3,8 @@ title: Kapitola čtvrtá Blahopřání
 contentType: prose
 ---
 
+<section>
+
 Poslední usazenina lidské várky, jež tu vřela po celý den, proudila ven z chmurně osvětlených chodeb soudního dvora, když se doktor Manette, jeho dcera Lucie Manettová, právní zástupce obžalovaného pan Lorry a jeho obhájce pan Stryver shromáždili kolem pana Charlese Darnaye, právě propuštěného, a blahopřáli mu k jeho úniku před smrtí.
 
 Bylo by bývalo nesnadno i ve světle mnohem jasnějším rozeznat v doktoru Manettovi, produševnělém v tváři a napřímeném, onoho obuvníka z pařížského podkroví. Kdokoli se však na něj už dvakrát podíval, nemohl se ubránit, aby se na něj nepodíval znovu, a to i tenkrát, když nebyla příležitost zaslechnout truchlivou kadenci jeho ztlumeného hrobového hlasu nebo spatřit tu jeho nepřítomnost ducha, jež na něj padala jako mračno vždy tak náhle bez jakékoli zjevné příčiny. Byla tu jedna vnější příčina, a to zmínka o jeho dlouhých letech utrpení – jako se stalo za soudního řízení –, jež z hlubin jeho duše vyvolávala v něm tento stav, avšak vznikal v něm i bez příčiny a zahaloval jej pak truchlivostí tak nepochopitelnou těm, kteří neznali jeho příběh, že to vypadalo, jako by viděli stín skutečné Bastily, vržený na něj letním sluncem, zatím co sama Bastila byla na tři sta mil daleko.
@@ -152,3 +154,5 @@ Když tato podivná bytost zůstala sama, vzala svíci, šla k zrcadlu, jež vi
 „Máš toho člověka nějak zvlášť rád?“ mumlal si Carton před vlastním obrazem. „Proč bys měl mít nějak zvlášť rád člověka, který se ti podobá? Není na tobě nic, co by někdo mohl mít rád; to víš sám. Ach, k čertu s tím! Jak ses to změnil! To je mi výborný důvod, přilnout k někomu za to, že ti ukázal, odkud jsi spadl a co z tebe mohlo být! Stačilo by přece vyměnit si s ním místo a byly by se na tebe dívaly ty modré oči, co se dívaly na něj, byla by s tebou soucítila ta vzrušená tvář, co soucítila s ním, nebo ne? Jen si to řekni otevřeně! Nenávidíš toho člověka.“
 
 Vrátil se pro útěchu k půllitru vína, vypil je v několika minutách a usnul pak opřen o ruce, s vlasy rozhozenými po stole – a ze svíce padal na něj dlouhý lojový krápník.
+
+</section>

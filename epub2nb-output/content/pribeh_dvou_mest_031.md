@@ -3,6 +3,8 @@ title: Kapitola devatenáctá Mínění
 contentType: prose
 ---
 
+<section>
+
 Znaven starostlivým bděním, pan Lorry na hlídce usnul. Desátého jitra z těch napjatých dní s úlekem procitl pod paprsky zářivého slunce, jež vnikalo do pokoje, kde ho těžký spánek překonal za temné noci.
 
 Protřel si oči a přiměl se k bdělosti; když to však učinil, začal mít pochybnosti, zda ještě nespí. Neboť přistoupiv ke dveřím doktorova pokoje a nahlédnuv dovnitř, spatřil tam, že obuvnická lavice i nástroje jsou opět odstrčeny stranou a že doktor sedí u okna a čte. Měl na sobě obvyklý ranní oděv a jeho tvář (kterou pan Lorry jasně viděl), třebaže byla dosud velmi bledá, měla výraz klidné a pozorné soustředěnosti.
@@ -136,3 +138,5 @@ Jaký to na něj byl podivný pohled, když tu tak sám v sobě bojoval!
 Pan Lorry pohotově slíbil udělat to tak a rozhovor skončil. Strávili den venku v krajině a doktorovi se opět vrátilo zdraví. Po tři příští dny zůstal zcela zdráv a čtrnáctého dne odjel, aby se setkal s Lucií a jejím manželem. Pan Lorry mu již dříve vysvětlil, jak to zařídili, aby bylo odůvodněno, proč Lucii nepsal; poslal jí tedy dopis, který byl zcela ve shodě s tím, co bylo zařízeno, a Lucie neměla žádné podezření.
 
 Hned večer toho dne, kdy odjel z domu, vešel pan Lorry do jeho pokoje, opatřen sekáčkem, pilou, dlátem i kladivem a provázen slečnou Prossovou, jež nesla světlo. Za zavřenými dveřmi, počínaje si s provinilou tajemností, rozřezal a rozštípal pan Lorry obuvnickou lavici, zatím co slečna Prossová držela svíčku, jako by pomáhala při vraždě – k čemuž, po pravdě řečeno, nebyla při své hrozivosti postavou nevhodnou. Bezodkladně pak nastalo v kuchyňských kamnech spalování tohoto těla (jež bylo napřed rozsekáno na příslušné kousky); nástroje, boty a kůži spálili v zahradě. Takové tajné ničení připadá počestným duším do té míry neřestné, že pan Lorry i slečna Prossová, když se tím zabývali a když odstraňovali jeho stopy, měli pocit a vypadali takřka, jako by páchali strašlivý zločin.
+
+</section>

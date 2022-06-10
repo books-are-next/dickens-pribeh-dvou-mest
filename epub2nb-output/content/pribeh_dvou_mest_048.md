@@ -3,6 +3,8 @@ title: Kapitola jedenáctá Soumrak
 contentType: prose
 ---
 
+<section>
+
 Nešťastná žena nevinného muže takto k smrti odsouzeného se skácela, uslyševši rozsudek, jako smrtelně raněna. Nevydala však ze sebe ani hlásek; a hlas v jejím nitru, jenž jí připomínal, že právě ona jediná ze všech lidí musí ho podpírat v jeho neštěstí a nikoli toto neštěstí rozmnožovat, byl tak mocný, že se pod jeho účinkem i z tohoto úderu okamžitě vzpamatovala.
 
 Poněvadž se soudcové měli zúčastnit jakési pouliční demonstrace, bylo zasedání tribunálu odročeno. Nedozněl ještě hluk rychlého odchodu posluchačstva ze síně a Lucie již tu stála, napřahujíc ruce k manželovi, na tváři majíc jen a jen lásku a útěchu.
@@ -88,3 +90,5 @@ Pan Lorry opřel paži o veřeje dveří a sklonil na ni tvář.
 „Ano, ano, ano,“ řekl pan Lorry, utíraje si oči, „máte pravdu. Ale on zahyne; není žádné skutečné naděje.“
 
 „Ano. Zahyne; není žádné skutečné naděje,“ jako ozvěnou řekl Carton. A jal se klidným krokem sestupovat po schodech dolů.
+
+</section>

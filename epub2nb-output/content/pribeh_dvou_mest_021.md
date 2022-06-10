@@ -3,6 +3,8 @@ title: Kapitola devátá Gorgonina hlava
 contentType: prose
 ---
 
+<section>
+
 Zámek pana markýze byla mohutná budova s velikým dlážděným nádvořím vpředu, odkud vedla dvě křídla kamenných schodišť, jež se setkávala na dlážděné terase před hlavním vchodem. Všechno tu bylo z kamene, kamenná byla zábradlí, kamenné byly vázy i květy v nich, kamenné byly tváře lidí a kamenné byly hlavy lvů, kámen byl všude, kamkoli kdo pohlédl. Jako by si to sem byla přišla prohlédnout Gorgonina hlava, když zámek před dvěma stoletími dostavěli.
 
 Vystoupiv z kočáru, kráčel pan markýz ve světle pochodně, kterou před ním nesli, širokým křídlem nízkých schodů vzhůru a způsobil tak v temnotě kolem dost nepokoje, aby vyvolal hlasitou odezvu sovy kdesi na střeše řady stájí daleko mezi stromy. Všechno ostatní bylo tak tiché, že pochodně, nesené po schodech vzhůru, a další pochodně, hořící u hlavního vstupu, plápolaly tak klidně, jako by byly v uzavřené slavnostní síni a nikoli na volném nočním vzduchu. Mimo soví houkání nebylo tu jiného zvuku, mimo slyšitelné dopadání vody do kamenné nádrže vodotrysku, neboť to byla jedna z temných nocí, jež po celé hodiny zadržují dech, pak vydají táhlé povzdechnutí a opět dech zadrží.
@@ -228,3 +230,5 @@ Gorgona té noci obhlédla zámecké budovy a přidala kamennou tvář, která 
 Ležela ta tvář na polštáři pana markýze. Podobala se krásné masce, jež se náhle ulekla, rozhněvala se a zkameněla. Hluboko v srdci kamenné postavy, jež patřila k té hlavě, vězel nůž. Kolem jeho rukojeti byl omotán útržek papíru, na němž bylo naškrabáno:
 
 _„Rychle ho dopravte do hrobky. To vzkazuje_ JACQUES_.“_
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola patnáctá Kroky doznívají navždy
 contentType: prose
 ---
 
+<section>
+
 Dutě a drsně drkotají pařížskými ulicemi káry smrti. Šest kár veze denní příděl vína gilotině. Všechny hltavé a nenasytné stvůry, co si jich kdy představivost vymyslila od časů, kdy byla po prvé zaznamenána, sloučily se tu v jedinou skutečnost gilotiny. A přece není ve Francii se vší její bohatou růzností půd a podnebí jediného stébla, jediného listu, jediného kořene, jediné větévky, jediného pepřového zrnka, jež by uzrávalo za podmínek jistotnějších, než byly ty, z nichž vyrostla tato hrůza. Rozdrťte znovu lidstvo podobnými kladivy a znovu se samo zmrzačí do těchto zmučených podob. Zasejte znovu totéž sémě loupeživé bezuzdnosti a násilnictví a jistě vydá tytéž plody podle svého semene.
 
 Šest kár drkotá ulicemi. Mocný kouzelníku čase, změň je opět v to, čím byly, a ukáže se, že to jsou kočáry absolutních monarchů, slavnostní povozy feudální šlechty, úbory nastrojených Jezabel, kostely, jež nejsou domy Otce mého, nýbrž peleše lotrovské, chýše milionů hladovících venkovanů! Nikoli; veliký kouzelník, jenž velebně vykonává, co ustanovil Stvořitel, nikdy nevrací do původních podob to, co jednou proměnil. „Byl-li jsi proměněn do této podoby z vůle boží,“ praví mudrci začarovanému v moudrých arabských pohádkách, „pak zůstaň tak! Jestliže jsi však nabyl této podoby jen skrze pomíjivé zaklínání, pak se vrať do podoby původní!“ Beznadějně nezměnitelné drkotají káry dál.
@@ -102,3 +104,5 @@ Vidím, jak se mi dostává posvěceného místa v jejich srdcích a v srdcí
 Vidím ono dítě, jež leží na jejích prsou a jež má moje jméno, jako muže, jenž si razí cestu touž životní stezkou jako kdysi já. Vidím ho razit si cestu tak dobře, že moje jméno se skvěje ve světle jeho jména. Vidím, jak mizí poskvrny, jež jsem sám na ně vrhl. Vidím ho, nejpřednějšího ze spravedlivých soudců a čestných lidí, jak vede chlapce mého jména s čelem, jež znám, a se zlatými vlasy k tomuto místu – v té době již krásnému na pohled, bez stopy po krutém znetvoření tohoto dne – a slyším ho, jak něžným a váznoucím hlasem vypráví tomuto dítěti můj příběh.
 
 Co nyní dělám, je mnohem lepší, než co jsem kdy dělal; odcházím za spočinutím mnohem a mnohem lepším, než jaké jsem kdy poznal.“
+
+</section>

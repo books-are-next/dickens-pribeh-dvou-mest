@@ -3,6 +3,8 @@ title: Kapitola dvacátá první Ozvěny kroků
 contentType: prose
 ---
 
+<section>
+
 Již jsme řekli, že v tom zákoutí, kde bydlil doktor, podivuhodně zněly ozvěny kroků. Pilně předouc zlatou nit, jež poutala jejího manžela, jejího otce, ji samu i dávnou její vládkyni a družku k životu plnému tichého štěstí, sídlila Lucie v nerušeném zákoutí pokojného domu, kde zněly jenom ozvěny, a naslouchala ozvučným krokům let.
 
 Přestože byla naprosto šťastna jako mladá manželka, byly zprvu doby, kdy jí práce padala z rukou a oči jí zastírala mlha. V ozvěnách se cosi blížilo, něco lehkého, ještě dalekého a sotva slyšitelného, co však velmi vzrušovalo její srdce. Znepokojovaly ji kolísavé naděje a pochybnosti – naděje na lásku, kterou dosud nepoznala, pochybnosti, zda zůstane živa, aby se mohla z této nové radosti těšit. Slýchala pak mezi ozvěnami zvuky kroků, kráčejících k jejímu časnému hrobu, a myšlenky na manžela, jenž tu zůstane opuštěn a tolik pro ni bude truchlit, zvedaly se jí pak až k očím a lámaly se tam na tříšť krůpějí, jako se vlny lámou.
@@ -168,3 +170,5 @@ Moře hrozivě temných vod a s vlnami, jež se ničivě pozvedaly jedna proti
 Ale v tom moři tváří, na nichž ožila všechna zuřivost a dravost, bylo možno rozeznat dvě skupiny tváří – v každé jich bylo sedm – jež se tak ostře lišily od ostatních, že nikdy žádné moře neneslo na sobě trosky, na něž by vzpomínka byla tak mocná. Bylo to sedm tváří vězňů, které náhle osvobodila bouře, vniknuvší do jejich hrobů, a kteří teď byli neseni vysoko nad hlavami zděšeni, nechápající, udiveni a ohromeni, jako by byl nastal soudný den a jako by zástupy, radující se kolem, byly duše zatracenců. Ještě výš bylo neseno sedm jiných tváří, sedm mrtvých tváří, jejichž klesající víčka a zpola otevřené oči očekávaly soudný den. Bezcitné tváře, přece však tváře s jakýmsi výrazem navždy ustáleným, nikoli setřeným; nebo spíše tváře, zastižené v nějakém okamžiku děsu, jež jako by ještě jednou měly pozvednout klesající víčka a pronést svědectví bezkrevnými rty: „TY JSI TO UČINIL!“
 
 Sedm osvobozených vězňů, sedm zkrvavených hlav na píkách, klíče prokleté tvrze o osmi věžích, několik objevených dopisů a jiných památek na vězně, kteří již dávno zemřeli – takové a podobné věci doprovázejí pařížskými ulicemi uprostřed července roku sedm­náctistého osmdesátého devátého hlučné kroky obyvatel čtvrti Saint Antoine, jejichž ozvěny je daleko slyšet. Nebesa kéž popřou představu Lucie Darnayové a kéž tyto kroky zadrží daleko od jejího života! Neboť jsou to kroky unáhlené, šílené a nebezpečné; a po letech tak dlouhých od chvíle, kdy se před Defargeovou vinárnou rozbil sud, nelze je tak snadno očistit, jestliže se zbarvily rudě.
+
+</section>

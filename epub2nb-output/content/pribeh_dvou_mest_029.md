@@ -3,6 +3,8 @@ title: Kapitola sedmnáctá Jedna noc
 contentType: prose
 ---
 
+<section>
+
 Nikdy nedopadaly paprsky zapadajícího slunce zářivěji na tiché zákoutí v Soho než kteréhosi pamětihodného večera, kdy doktor a jeho dcera seděli spolu pod platanem. Nikdy nesvítil měsíc něžněji nad velikým Londýnem než oné noci, kdy je tam zastihl dosud sedící pod tím stromem a kdy jim svítil na tváře skrze jeho listí.
 
 Nazítří se měla Lucie vdávat. Vyhradila poslední večer otci a posadili se sami spolu pod platan.
@@ -86,3 +88,5 @@ Ale všechny věci byly na svých místech, všude bylo ticho a otec spal s b�
 Hořké slzy z času zajetí vyryly svá znamení v jeho krásné tváři, ale překryl jejich průrvy rozhodností tak mocnou, že byl nad nimi pánem dokonce i ve spánku. V celém království spánku nebylo té noci pozoruhodnější tváře nad tuto tvář, tak klidnou a odhodlanou v svém ostražitém boji proti neviditelnému zákeřníku.
 
 S bázlivou úctou položila ruku na jeho drahá prsa a modlila se, aby mu vždy zůstala tak věrna, jak si to její láska k němu přála a jak si to jeho útrapy zasloužily. Zvedla pak opět ruku, ještě jednou ho políbila na rty a odešla. Nastal pak východ slunce a stíny, jež vrhalo listí platanu, pohybovaly se po jeho tváři právě tak lehce, jak se pohybovaly její rty, když se za něj modlila.
+
+</section>

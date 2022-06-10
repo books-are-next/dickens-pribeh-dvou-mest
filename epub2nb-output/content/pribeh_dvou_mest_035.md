@@ -3,6 +3,8 @@ title: Kapitola dvacátá třetí Požár mohutní
 contentType: prose
 ---
 
+<section>
+
 Nastaly změny ve vsi, kde voda padala do kašny a kde cestář denně vycházel vytloukat z kamení na silnici tolik drobtů chleba, kolik jen mohlo jakž takž udržet pohromadě jeho ubohou nevědomou duši a ubohé zbědované tělo. Vězení na skále už tak nevládlo nad krajem jako kdysi; hlídali tam vojáci, ale nebylo jich mnoho; důstojníci tam hlídali vojáky, ale nikdo z nich nevěděl, co jejich mužstvo udělá – jen tolik věděli, že pravděpodobně neudělá, co mu bude rozkázáno.
 
 Široko daleko se rozkládala zpustlá krajina, neposkytující nic než samou bezútěšnost. Všechno listí, všechny traviny, všechna obilní stébla byla tak scvrklá a ubohá jako sami zubožení lidé. Všechno tu bylo sehnuto, zhněteno, sklíčeno a zlomeno. Obydlí, ploty, domácí zvířata, muži, ženy, děti i sama půda, po níž chodili – všechno bylo zhola vyčerpáno.
@@ -94,3 +96,5 @@ Ale to nebylo všechno; ves, poblázněná hladem, požárem i vyzváněním a�
 Pan Gabelle měl patrně té noci hodně dlouhou chvíli, když mu vzdálený zámek byl krbem i svící a když mu bušení na jeho dveře, promíšené radostným vyzváněním, bylo hudbou; nadto se naproti přes cestu u brány poštovní stanice klátila zlověstná lampa, kterou měla ves sto chutí odstranit, aby mu udělala místo. Vskutku trapně nejisté postavení trávit takhle celou letní noc na samém okraji temného moře, přichystán ponořit se do něho hlavou napřed, jak se k tomu pan Gabelle rozhodl! Konečně však přátelsky začalo svítat, svíčky ve vsi dohořely, lidé se na štěstí rozešli a pan Gabelle sestoupil, pro tentokrát ještě živ.
 
 V okruhu sta mil a ve světle jiných požárů mělo té noci dalších mnoho jiných úředníků štěstí mnohem menší, neboť je vycházející slunce zastihlo, jak visí nad ulicemi kdysi mírumilovnými, kde se narodili a kde vyrostli; také bylo mnoho vesničanů i lidí v městech, kteří měli menší štěstí než cestář a jeho přátelé, neboť se jim úředníci a vojsko s úspěchem ubránili a pověsili zas je. Ať se však dálo cokoli, čtyři divoké postavy se klidně ubíraly k východu, západu, severu i jihu; ať byl kdokoli oběšen, požáry planuly. Žádný úředník, ať jakkoli by se namáhal při svém počtářském umění, nebyl by mohl vypočítat, jak vysoké by musely být šibenice, aby požáry ustaly a byly uhašeny.
+
+</section>
