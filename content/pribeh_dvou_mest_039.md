@@ -3,6 +3,8 @@ title: Kapitola druhá Brus
 contentType: prose
 ---
 
+<section>
+
 Sídlem Tellsonovy banky v pařížské čtvrti Saint Germain bylo křídlo velikého domu, kam se přicházelo přes nádvoří, oddělené od ulice vysokou zdí a pevnými vraty. Dům patřil velkomožnému šlechtici, jenž v něm bydlil až do chvíle, kdy uprchl před nepokoji v šatech svého kuchaře a utekl za hranice. Nyní už pouhá štvaná zvěř, unikající před lovci, přece jen to nebyl ve svém převtělení nikdo jiný než onen milostivý pán, pro jehož rty chystali čokoládu tři statní muži vedle řečeného již kuchaře.
 
 Když milostivý pán odešel a když si oni tři statní muži sami dali rozhřešení z hříchu, že brali od něho vysoké platy, a to na základě toho, že byli víc než připraveni a ochotni proříznout mu hrdlo ve jménu rodící se jednotné a nedělitelné Republiky volnosti, rovnosti, bratrství nebo smrti, dům milostivého pána byl nejprve dán pod vnucenou správu a pak zabaven. Neboť věci pokračovaly tak rychle, dekret stíhal dekret s takovou překotností, že nyní, třetího večera podzimního měsíce září, vládli nad domem milostivého pána vlastenečtí pověřenci zákona, označili jej trikolorou a popíjeli pálenku v jeho slavnostních pokojích.
@@ -82,3 +84,5 @@ Ještě dvakrát zazněl temnotou zvon od hlavní brány, opakovalo se vniknutí
 Ještě celkem dvakrát; ale naposled už brousili jen mdle a s přestávkami. Brzy pak již začalo svítat; jemně se vymanil z ruky, která ho svírala, a opatrně vyhlédl. Jakýsi muž, tolik potřísněný krví, že to právě tak dobře mohl být těžce raněný voják, jemuž se vrátilo vědomí uprostřed celého pole zabitých, vstal z dlažby poblíž brusu a prázdným pohledem se rozhlédl. Za okamžik rozeznal tento vyčerpaný vrah v nedokonalém světle jeden z kočárů milostivého pána, doklopýtal se k tomu přepychovému povozu, vstoupil dvířky dovnitř a zavřel se tam, aby si odpočinul na jeho jemných polštářích.
 
 Než pan Lorry opět vyhlédl, veliký brus země se pootočil a slunce již rudě osvětlovalo nádvoří. Ale onen menší brus tam osaměle stál v klidném jitřním vzduchu a lpěla na něm rudá barva, kterou mu slunce nikdy nemohlo dát a kterou ani nemohlo nikdy z něho setřít.
+
+</section>

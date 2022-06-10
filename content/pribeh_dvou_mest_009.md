@@ -3,6 +3,8 @@ title: Kapitola čtvrtá Příprava
 contentType: prose
 ---
 
+<section>
+
 Když se konečně dostavníku podařilo dojet za dopoledních hodin do Doveru, vrchní číšník „Hotelu u krále Jiřího“ otevřel po svém zvyku jeho dvířka. Učinil tak pohybem velmi obřadným, neboť zimní cesta dostavníkem z Londýna, to byl výkon, ke kterému bylo nutno dobrodružnému cestujícímu blahopřát.
 
 Zbyl tu už jen jeden dobrodružný cestující, kterému bylo možno blahopřát, neboť dva další už cestou vystoupili. Zatuchlý vnitřek dostavníku s vlhkou a špinavou slámou, se svým nepříjemným zápachem a temnotou podobal se spíše nějaké větší psí boudě. Cestující, pan Lorry, když se tak dostával ven, ověšen slámou, zabalen do huňaté pokrývky, s měkkým kloboukem na hlavě a se zablácenýma nohama, podobal se spíše nějakému většímu psovi.
@@ -202,3 +204,5 @@ Touto otázkou, na niž bylo těžko odpovědět, byl pan Lorry uveden do rozpak
 „Vy tedy budete doprovázet slečnu Manettovou do Francie?“ zeptal se pan Lorry, když se byl opět na chvilku s malomyslnou účastí a pokorou odmlčel.
 
 „To jste tedy uhodl!“ odpověděla silácká žena. „Myslíte, že by mě byla Prozřetelnost poslala žít na ostrov, kdyby byla zamýšlela, abych se vydala na cestu přes slanou vodu?“ Poněvadž toto byla další otázka, na niž bylo těžko odpovědět, pan Jarvis Lorry se vzdálil, aby ji promyslil.
+
+</section>

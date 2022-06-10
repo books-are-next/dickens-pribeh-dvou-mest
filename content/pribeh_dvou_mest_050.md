@@ -3,6 +3,8 @@ title: Kapitola třináctá Padesát dva
 contentType: prose
 ---
 
+<section>
+
 V temné Conciergerie čekali odsouzenci, určení, aby toho dne byli popraveni, na svůj osud. Bylo jich právě tolik jako týdnů v roce. Dvaapadesát jich mělo jet toho odpoledne živým proudem města k bezbřehému, věčnému moři. Než opustili svoje kobky, již byli urče­ni ti, kteří v nich budou přebývat po nich; než jejich krev splynula s krví, která byla prolita včera, již byla přichystána krev, která se s ní smísí zítra.
 
 Dvaapadesát jich bylo odpočítáno. Od sedmdesátiletého nájemce pozemkových daní, jenž za všechno své bohatství nemohl koupit život, po dvacetiletou švadlenu, kterou nemohla zachránit její chudoba a nízkost původu. Tělesné choroby, zplozené lidskými neřestmi a nedbalostí, vyhledávají své oběti mezi všemi vrstvami; a strašlivá mravní nemoc, zrozená v nevýslovných utrpeních, za nesnesitelného útlaku a za bezcitné lhostejnosti, vrhala se právě tak na všechny bez rozdílu.
@@ -282,3 +284,5 @@ Konečně jsou noví postilioni v sedlech a staří zůstávají vzadu. Jedeme
 Noční temnota roste. Pohnul sebou trochu víc, začíná ožívat a mluvit srozumitelně; myslí, že jsou dosud spolu, oslovuje ho jménem a táže se ho, co to má v ruce. Smiluj se nad námi, laskavé nebe, a pomoz nám! Ohlédněte se, vyhlédněte ven, zda nejsme pronásledováni.
 
 Vítr se žene za námi, mraky letí za námi, měsíc se vynořuje za námi, celá přízračná noc nás pronásleduje, ale až dosud nepronásleduje nás nic jiného.
+
+</section>

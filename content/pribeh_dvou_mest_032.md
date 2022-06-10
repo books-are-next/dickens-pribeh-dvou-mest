@@ -3,6 +3,8 @@ title: Kapitola dvacátá Obhajoba
 contentType: prose
 ---
 
+<section>
+
 Když se dvojice novomanželů vrátila domů, první, kdo jim přišel blahopřát, byl Sydney Carton. Když se ohlásil, uplynulo od jejich příjezdu sotva několik hodin. Nikterak se nezlepšily jeho zvyky, jeho vzhled ani jeho způsoby; vypadal však při své zamračenosti jaksi poctivě, a to bylo v očích Charlese Darnaye něco nového.
 
 Vyčkal na vhodnou příležitost a odvedl si pak Darnaye k oknu, aby s ním mohl promluvit, aniž kdokoli naslouchal.
@@ -92,3 +94,5 @@ Tato prosebná žádost se ho dotkla v hloubi srdce. „Vždy na to budu myslit
 Naklonil se nad její zlatou hlavu, políbil ji na růžové rty a pevně ji objal. Kdyby byl mohl kterýsi ztracený a bludný chodec, kráčející temnými ulicemi, vyslechnout její nevinná slova a kdyby byl mohl spatřit ony krůpěje soucitu, jež jí manžel setřel polibkem z něžných modrých očí, tak milujících tohoto manžela, byl by patrně zvolal do noci – a nebyla by ta slova přešla přes jeho rty poprvé:
 
 „Bůh jí žehnej za ten útěšný soucit!“
+
+</section>

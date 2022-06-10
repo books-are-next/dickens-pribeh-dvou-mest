@@ -3,6 +3,8 @@ title: Kapitola třináctá Člověk bez jemnosti
 contentType: prose
 ---
 
+<section>
+
 Zářil-li Sydney Carton vůbec někde, pak jistě nezářil v domě doktora Manetta. Chodíval tam celý ten rok často a vždy si tam počínal jako zachmuřený a zádumčivý mrzout. Když se mu zachtělo hovořit, hovořil dobře; ale mrakem naprosté lhostejnosti, jenž na něm ležel tak neblaze a temně, zřídka proniklo nějaké světlo z jeho nitra.
 
 A přece měl jaksi rád ulice v okolí toho domu i neživotné kameny jejich dlažby. Mnohokrát tudy za noci bezcílně a nešťastně bloudil, když v něm víno neprobudilo trochu přechodné veselosti; mnohokrát teskné svítání odhalilo jeho osamělou postavu, jak se tu potuluje, a potuloval se tu ještě, když první paprsky slunce ostře osvítily architektonické krásy vzdálených kostelních věží a výstavných budov, a tato klidná chvíle vnášela patrně do jeho duše pomyšlení na lepší věci, jinak zapomenuté a nedostižné. Od nedávna uléhal na svou zanedbanou postel v Temple Courtu řidčeji než kdy dříve; a nejednou, když na ní ležel pouhých několik minut, vstal opět a zas ho to hnalo do těchto končin.
@@ -90,3 +92,5 @@ Tak málo se podobal člověku, jímž se vždy zdál být, a tak smutno bylo p
 „A teď ještě poslední prosba; až ji vyslovím, zbavím vás pak hosta, s nímž, jak dobře vím, nemáte nic po duchu společného a mezi nímž a vámi zeje propast. Vím, je zbytečno to říkat, ale stoupá mi to z duše. Pro vás a pro kohokoli, kdo je vám drahý, udělám všechno. Kdyby můj život byl lepší a kdyby vůbec bylo možno něco z něho obětovat, chopil bych se každé příležitosti obětovat se pro vás a pro ty, kdo jsou vám drazí. Zkuste si mě připamatovat za klidných chvil jako člověka, který je v této věci oddaný a věrný. Nastane vám čas, a nebude to už dlouho trvat, kdy uzavřete nové svazky – takové svazky, jež vás ještě něžněji a pevněji připoutají k domovu, jemuž jste takovou ozdobou – nejdražší svazky, jaké vám kdy budou dodávat půvab a radost. Ach, slečno Manettová, až k vám bude vzhlížet maličký obraz podoby šťastného otce, až uvidíte u svých nohou znovu vyrůstat svoji vlastní krásu, pomyslete tu a tam, že je na světě člověk, který by dal život za to, aby udržel při životě toho, kdo žije po vašem boku a koho milujete!“
 
 Řekl: „Buďte zdráva!“, pak ještě řekl: „Bůh vám žehnej!“ a odešel.
+
+</section>

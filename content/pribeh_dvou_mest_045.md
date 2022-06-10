@@ -3,6 +3,8 @@ title: "Kapitola osmá Karty v\_rukou"
 contentType: prose
 ---
 
+<section>
+
 Šťastně nevědomá o novém neštěstí, jež se doma stalo, kráčela slečna Prossová úzkými uličkami a překročila řeku po mostě Pont Neuf, přepočítávajíc v duchu všechny nezbytné nákupy, jež měla pořídit. Pan Cruncher s košíkem šel jí po boku. Oba nahlíželi vpravo i vlevo do všech krámů, jež míjeli, obezřetně si všímali všech houfných shluknutí lidí, a kde narazili na vzrušenou skupinu hovořících, tam raději odbočili z cesty. Byl sychravý večer a na zamlžené řece, jež tu před očima plápolala ohni a do uší pronikala drsným hřmotem, bylo vidět bárky, kde pracovali kováři, vyrábějící zbraně pro armádu Republiky. Běda tomu, kdo si zahrával s touto armádou a komu se v ní nezaslouženě dostalo povýšení! Pak bylo pro něj lépe, aby mu nebyly nikdy narostly vousy, neboť národní břitva mu je teď dokonale oholila.
 
 Když slečna Prossová nakoupila několik drobností u hokynáře a odměrku oleje do lampy, začala se zabývat otázkou, kde koupit potřebné víno. Nahlédla do několika vináren a zastavila se u vývěsního štítu „Dobrého starověkého republikána Bruta“ nedaleko Národního paláce, což byly dřívější (i pozdější) Tuileries, kde se jí to dokonce trochu zalíbilo. Vypadalo to tu poněkud klidněji než v jiných místnostech téhož druhu, mimo něž prošli, a přestože i tady bylo rudo vlasteneckými čapkami, nebylo tu tolik rudo jako jinde. Dotázavši se pana Crunchera a zjistivši, že je téhož mínění jako ona, vstoupila slečna Prossová, provázena svým kavalírem, k „Dobrému starověkému republikánu Brutovi“.
@@ -254,3 +256,5 @@ Vězeňský prašivec se od něho odvrátil a řekl poněkud odhodlaněji Sydne
 Sydney Carton nalil opět pálenku do skleničky, zvolna ji vyléval do krbu a pozoroval, jak odkapává. Když všechnu vylil, vstal a řekl:
 
 „Dosud jsme mluvili tady před těmi dvěma, poněvadž bylo dobře, aby hodnota našich karet nebyla jen mezi námi. Teď pojďte tam do toho tmavého pokoje a tam si povíme závěrečná slova.“
+
+</section>

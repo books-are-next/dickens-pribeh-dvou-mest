@@ -3,6 +3,8 @@ title: Kapitola druhá Dostavník
 contentType: prose
 ---
 
+<section>
+
 Před první postavou tohoto vyprávění prostírala se kteréhosi pátečního večera v pozdním listopadu silnice do Doveru. Ležela před tím člověkem zakryta doverským dostavníkem, který namáhavě stoupal na Shooter’s Hill. Kráčel do vrchu pěšky blátem po boku dostavníku, jak šli i ostatní cestující; nešli tak proto, že by snad měli za těch okolností chuť trochu se projít, nýbrž proto, že stoupání bylo tak příkré, bláto tak hluboké, postroj i vůz tak těžké, až to už třikrát přinutilo koně zastavit a jednou zatáhli dokonce ve vzpurném úmyslu vrátit se do Blackheathu vůz napříč silnicí. Avšak opratě, bič, kočí i průvodčí, všichni společně, přečetli jim onen článek válečného zákoníku, jenž zakazuje takový záměr, byť jinak vydatně podpíral tvrzení, že některá zvířata jsou nadána rozumem; spřežení kapitulovalo a vrátilo se k povinnosti.
 
 Se skloněnými hlavami a roztřesenými ocasy brodili se koně vpřed hustým blátem, potáceli se co chvíli a klopýtali, až se zdálo, že se v kloubech rozpadnou na kusy. Kdykoli je kočí utišoval a konečně i zastavil svým obezřetným: „Ou! Tak už ou!“ náruční kůň prudce potřásl hlavou a vším, co bylo na ní – jako nějaký neobyčejně zatvrzelý kůň, který tvrdí, že dostavník vůbec nelze do vrchu vytáhnout. Kdykoli sebou náruční kůň takto otřásl, vždy se náš cestující ulekl, jak už se neklidní cestující lekají, a velmi se znepokojil.
@@ -120,3 +122,5 @@ Dostavník se jal drkotat dál, a když nyní začal sjíždět, těsně jej ob
 Když Jerry zatím zůstal sám v mlze a temnotě, seskočil na silnici nejen proto, aby ulevil zchvácenému koni, nýbrž aby také setřel bláto s tváře a setřásl vodu se střechy klobouku, kde se jí nashromáždilo snad na dva litry. Když tu tak postál, maje uzdu přehozenu přes zablácenou paži, až do chvíle, kdy už nebylo slyšet kola dostavníku a kdy se noc opět ztišila, dal se pěšky na zpáteční cestu po svahu dolů.
 
 „Po tom letu od samého Temple Baru nebudu se moc spoléhat, stará, na tvoje přední nohy a dám ti pokoj, dokud zas nebudeme na rovině,“ pravil ten drsný posel, pohlížeje na svou kobylu. „‚Vrácen životu!‘ To je proklatě divná zpráva. Moc takových návratů by se ti zrovna teď nehodilo, Jerry! To ti tedy povídám! Vedlo by se ti proklatě zle, Jerry, kdyby z takových návratů k životu byla teď najednou móda!“
+
+</section>

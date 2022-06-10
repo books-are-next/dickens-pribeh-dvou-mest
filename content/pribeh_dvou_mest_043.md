@@ -3,6 +3,8 @@ title: Kapitola šestá Vítězství
 contentType: prose
 ---
 
+<section>
+
 Obávaný tribunál pěti soudců, veřejného žalobce a poroty plné rozhodnosti zasedal každý den. Večer co večer vydával seznam předvolaných, který pak žalářníci v různých vězeních předčítali vězňům. Žalářníci obvykle žertovali: „Vy tam uvnitř, pojďte si poslechnout, přečtu vám večerní noviny!“
 
 „Charles Evrémonde, zvaný Darnay!“
@@ -92,3 +94,5 @@ Když stiskl ruku doktorovi, jenž tu stál před ním vítězný a hrdý, kdy�
 „Teď promluv k svému otci, moje nejdražší. Nikdo jiný v celé Francii nebyl by mohl udělat to, co on udělal pro mne.“
 
 Položila hlavu na otcova prsa, jako on kdysi dávno položil svou hlavu na její prsa. Byl šťasten, že se jí tak odměnil, dostalo se mu odplaty za jeho utrpení, byl hrdý na svou sílu. „Nesmíš být tak křehká, moje drahá,“ vyčítal jí, „nechvěj se tak. Zachránil jsem ho.“
+
+</section>

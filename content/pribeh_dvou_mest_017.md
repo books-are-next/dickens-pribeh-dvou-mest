@@ -3,6 +3,8 @@ title: Kapitola pátá Muž pro všechno
 contentType: prose
 ---
 
+<section>
+
 V těch dobách se velmi pilo a většina lidí pila velmi mnoho. Pokud jde o tyto zvyky, nastalo od té doby takové zlepšení, že udat dnes střízlivé číslo o množství vína a punče, které mohl kterýkoli muž spolykat za jeden večer, aniž to v nejmenším ublížilo jeho dokonalé pověsti, vypadalo by za našich dní jako směšné přehánění. Učený stav právnický zajisté nikterak v bakchantické náklonnosti nezůstával pozadu za jinými učenými stavy; a pan Stryver, razící si již rychle cestu k veliké a výnosné praxi, nikterak v této věci nezůstával za svými druhy v povolání, právě tak jako za nimi nezůstával ani v střízlivějších odvětvích právnického soutěžení.
 
 Jsa oblíbencem v Old Bailey právě tak jako u soudů občanských, začal pan Stryver opatrně uřezávat spodní příčle žebříku, po němž stoupal nahoru. Občanské soudy a Old Bailey musely teď svého oblíbence do svých toužících náručí zvláště zvát; a když se tak svými širokými rameny denně prodíral u nejvyššího soudního dvora před tvář nejvyššího soudce, vypadala kvetoucí tvář pana Stryvera, vyrážející nad záhony paruk, jako veliká slunečnice, jež se dere ke slunci z celé zahrady jeho řadových druhů v povolání, planoucích závistí.
@@ -128,3 +130,5 @@ Když jej hostitel vyprovázel se svíčkou, aby mu na schodech posvítil, den j
 Se zmařenými schopnostmi v sobě a s pustotou kolem sebe zastavil se ten muž cestou po ztichlém chodníku a spatřil na okamžik v pustině před sebou přelud počestné ctižádosti, sebezapření a vytrvalosti. V pohádkovém městě té vidiny byly vzdušné ochozy, odkud na něj shlížela láska a přízeň, byly tu zahrady, kde zrály plody života, a byly tu prameny naděje, jež se mu jiskřily před očima. Okamžik – a pak to pominulo. Vystoupiv vysoko po schodech do svého pokoje, vrhl se v šatech na neustlané lůžko a polštář zvlhl slzami marně prolitými.
 
 Smutně a truchlivě vycházelo slunce a neosvítilo nic smutnějšího než obraz muže velmi schopného a dobrodušného, jenž se neumí podrobit sebekázni, jenž si sám neumí pomoci k štěstí, jenž je si vědom sněti, kterou je nakažen, a přece se jí poddává, aby jej zvolna užírala.
+
+</section>

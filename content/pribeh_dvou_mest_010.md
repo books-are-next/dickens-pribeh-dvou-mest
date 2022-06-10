@@ -3,6 +3,8 @@ title: Kapitola pátá Vinárna
 contentType: prose
 ---
 
+<section>
+
 Na ulici spadl veliký sud vína a rozbil se. Stalo se to, když jej skládali z povozu; sud se s rachotem překotil, obruče praskly a ležel teď na dláždění právě před dveřmi vinárny, roztříštěn jako vlašský ořech.
 
 Všichni lidé, kteří byli nablízku, nechali práce nebo lenošení a běželi sem, aby se napili vína. Hrubé, nepravidelné dlažební kostky na všech stranách zaostřené a určené, jak se možno domnívat, výslovně k tomu, aby zmrzačily všechna živá stvoření, jež tudy projdou, zadržely víno mezi sebou a vytvořily z něho malá jezírka; ta byla teď podle své velikosti obklopena menšími nebo většími skupinkami lidí, kteří se mezi sebou strkali. Někteří muži poklekli, a spojivše dlaně obou rukou, utvořili tak nádobky, z nichž pili nebo se pokoušeli, dřív než všechno víno uteklo mezi prsty, dát napít i ženám, které se jim nakláněly přes ramena. Jiní zas nabírali z kaluží rozbitými zbytky hliněných nádob nebo v nich namáčeli šátky z ženských hlav, jež pak maličkým dětem ždímali do úst; jiní stavěli z bláta drobné přehrady, aby odtékající víno zastavili; jiní, upozorňováni těmi, kteří přihlíželi z oken, pobíhali z místa na místo, aby zarazili stružky, rozbíhající se do všech stran; jiní konečně se vrhli na prosáklé a usazeninou povlečené kusy sudu a s dychtivou lačností olizovali, nebo dokonce žvýkali vlhčí, vínem promočené úlomky. Nebylo tu kanálu, kudy by bylo mohlo víno odtéci; avšak nejen všechno zmizelo, nýbrž ztratilo se s ním odtud i tolik bláta, že to vypadalo, jako by byl celou ulici vymetl metař, kdyby si vůbec bylo možno pomyslit, že se v téhle končině taková zázračná bytost někdy objevuje.
@@ -160,3 +162,5 @@ Uveden už trochu do zoufalství jejím stavem i průvodcovou výzvou, aby vsto
 Defarge vytáhl klíč, zavřel dveře, zevnitř je zamkl, opět klíč vy­táhl a držel jej pak v ruce. Dělal to všechno metodicky a doprovázel to hlukem i nevlídností co možno největší. Konečně pak odměřeným krokem přešel místnost k oknu. Zastavil se tam a obrátil se tváří do místnosti.
 
 Podkroví, určené sloužit jako sklad palivového dříví a podobných věcí, bylo ponuré a tmavé, neboť okno ve vikýřovém výklenku byly vlastně střešní dveře, nad nimiž byla připevněna jakási malá kladka, kterou se vytahovaly z ulice věci; byly to nezasklené dveře o dvou křídlech, jak bývají všechny francouzské dveře. Aby sem nevnikal chlad, byla polovička dveří pevně uzavřena, kdežto druhá byla jen nepatrně pootevřena. Vnikalo sem tedy jen velmi málo světla, a kdo sem právě vešel, ten stěží vůbec něco spatřil; jen dlouhým zvykem mohl se zrak přizpůsobit tak, aby bylo možno v této temnotě dělat práci, vyžadující jistou jemnost. A přece byla v tomto podkroví taková práce konána; zády ke dveřím a tváří obrácen k oknu, u něhož stál vinárník a hleděl na něj, seděl na nízké lavici bělovlasý muž, nahýbal se vpřed a pilně sešíval střevíc.
+
+</section>

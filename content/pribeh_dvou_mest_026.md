@@ -3,6 +3,8 @@ title: Kapitola čtrnáctá Počestný obchodník
 contentType: prose
 ---
 
+<section>
+
 Když tak seděl pan Jeremiah Cruncher na své stolici na Fleet Streetu, maje vedle sebe svého hrozně ježatého kluka, viděl den co den před sebou nesmírný počet nejrůznějších věcí. Kdo by také byl mohl sedět na čemkoli na Fleet Streetu za nejživějších hodin dne a nebýt oslněn i ohlušen obrovskými průvody, z nichž jeden směřoval se sluncem k západu, druhý od slunce k východu, ale oba vždy mířily k rovinám za rudě červeným obzorem, kde slunce zapadá.
 
 Se slámou v ústech seděl tu pan Cruncher a pozoroval ty dva proudy jako onen pohanský venkovan, jenž měl po několik století za povinnost bdít nad řekou – a rozdíl byl jen v tom, že Jerry nikterak neočekával, že jeho proudy vyschnou. Nebylo by to bývalo také očekávání, v němž by byl mohl spatřovat nějaký prospěch, neboť určitá menší část jeho příjmu pocházela z toho, že doprovázel bázlivé ženy (většinou tělnaté a překročivší již prostřední léta) z té strany proudu, na které stála Tellsonova banka, na protější břeh. Třebaže v každém tom případě pobyli spolu velmi krátce, vždy byl pan Cruncher dámou tak zaujat, že nezapomněl vyjádřit velikou touhu vypít skleničku dámě na zdraví. A právě dary, jež mu bývaly uštědřeny, aby mohl vykonat tento blahovolný skutek, doplňovaly, jak už jsme řekli, jeho jmění.
@@ -164,3 +166,5 @@ Pan Cruncher se na chodníku zarazil, než na to řekl: „Jak to mám vědět?�
 „Ach, táto, já bych byl tak rád vyhrabovačem, až vyrostu!“
 
 Pan Cruncher byl polichocen, ale potřásl hlavou jaksi pochybovačně a mravokárně. „To záleží na tom, jak budeš pěstovat svoje nadání. Pěkně si pěstuj nadání, nikdy nikomu neříkej o nic víc, než musíš, a pak člověk ani teď neví, kam až to můžeš dotáhnout.“ Když mladý Jerry, takto povzbuzen, odběhl o několik metrů napřed, aby postavil stolici do stínu Temple Baru, dodal pan Cruncher sám k sobě: „Jerry, počestný obchodníku, jsou tu jisté vyhlídky, že ti ten kluk přinese požehnání a že tě odškodní za svou matku.“
+
+</section>
