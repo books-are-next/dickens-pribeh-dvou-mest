@@ -3,8 +3,6 @@ title: Kapitola šestá Vítězství
 contentType: prose
 ---
 
-  
-
 Obávaný tribunál pěti soudců, veřejného žalobce a poroty plné rozhodnosti zasedal každý den. Večer co večer vydával seznam předvolaných, který pak žalářníci v různých vězeních předčítali vězňům. Žalářníci obvykle žertovali: „Vy tam uvnitř, pojďte si poslechnout, přečtu vám večerní noviny!“
 
 „Charles Evrémonde, zvaný Darnay!“

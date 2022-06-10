@@ -3,8 +3,6 @@ title: Kapitola druhá Podívaná
 contentType: prose
 ---
 
-  
-
 „Jistě znáte dobře Old Bailey?“ pravil jeden z prastarých úředníků poslu Jerrymu.
 
 „Znám, pane,“ odpověděl Jerry jaksi rozmrzele. „To víte, že znám Bailey.“

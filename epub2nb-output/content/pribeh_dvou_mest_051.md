@@ -3,8 +3,6 @@ title: Kapitola čtrnáctá Pletení skončeno
 contentType: prose
 ---
 
-  
-
 V téže době, kdy dvaapadesát očekávalo svůj osud, měla paní Defargeová temně zlověstnou poradu s Mstitelkou a Jacquesem třetím z revoluční poroty. Paní Defargeová nehovořila s těmito poradci ve vinárně, nýbrž v dílně řezače dříví, kdysi cestáře. Řezač sám se porady neúčastnil, nýbrž čekal o něco dále jako vnější tělesná stráž, jež nemá hovořit, dokud k tomu není vyzvána, jež nemá říkat žádný svůj názor, dokud není dotázána.
 
 „Ale náš Defarge je přece nepochybně dobrý republikán?“ pravil Jacques třetí.

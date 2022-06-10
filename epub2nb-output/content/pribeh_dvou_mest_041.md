@@ -3,8 +3,6 @@ title: Kapitola čtvrtá Klid za bouře
 contentType: prose
 ---
 
-  
-
 Doktor Manette se vrátil až za jitra čtvrtého dne od svého odchodu. Co jen bylo možno z událostí toho strašlivého času před Lucií zamlčet, to jí bylo utajeno, a tak se dověděla teprve tehdy, když již byla daleko od Francie, že obyvatelstvo zabilo jedenáct set bezbranných vězňů obou pohlaví a všech věků, že celé čtyři dny a čtyři noci ztemněly hrůzou těchto skutků a že všechen vzduch kolem ní byl prosycen ubitými. Věděla jen, že došlo k útoku na vězení, že všichni političtí vězňové byli v nebezpečí a že jich několik dav vyvlekl ven a zavraždil.
 
 Doktor pověděl panu Lorrymu, jak ho zástup vedl k vězení La Force celým jevištěm krveprolití, a žádal ho, aby to utajil, což ani nemusel zdůrazňovat. Jak ve vězení spatřil zasedat samozvaný tribunál, před který byli vězňové po jednom voláni a jenž pak rychle dával příkazy, aby buď byli vydáni na pospas masakru nebo aby byli propuštěni či konečně (v několika málo případech) aby byli odvedeni zpět do kobky. Jak potom, přiveden svými průvodci před tribunál, ohlásil jeho členům svoje jméno, povolání i skutečnost, že byl po osmnáct let tajně a bez obžaloby vězněn v Bastile, a jak konečně jeden z mužů toho soudcovského sboru vstal a potvrdil jeho totožnost – a ten muž byl Defarge.

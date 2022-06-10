@@ -3,8 +3,6 @@ title: Kapitola dvacátá druhá Bouře trvá
 contentType: prose
 ---
 
-  
-
 Teprve týden jásala vyhublá čtvrt Saint Antoine, teprve týden si kořenila, jak jen mohla, svou chudou skývu tvrdého a hořkého chleba bratrským objímáním a vzájemnými blahopřáními, když paní Defargeová opět už seděla jako obvykle za svým pultem v čele zákazníků. Neměla na hlavě žádnou růži, neboť bratrstvo špehů se už za pouhý týden jen velmi nerado vydávalo na milost čtvrti světcova jména. Lampy nad ulicemi se pohoupávaly s jakousi příšernou pružností.
 
 Se založenýma rukama seděla paní Defargeová v jitřním světle a teple, hledíc zamyšleně na vinárnu a do ulice. Venku i uvnitř stály a seděly hloučky lidí, špinavých a ubohých, zřejmě však nyní bylo jejich zoufalství převršeno pocitem moci. I z nejpotrhanější noční čapky, křivě nasazené na nejubožejší hlavě, jako by se potměšile ozývalo: „Sám vím, jak těžké bylo pro mne, který tohle mám na hlavě, uhájit holý život; ale víš snad, jak snadno je mně, který tohle mám na hlavě, zničit tvůj život?“ Všechny ty vyhublé nahé ruce, jež byly dříve bez práce, mohly se teď chopit této práce a rozdávat rány. Nabyvše zkušenosti, že mohou rvát a trhat, prsty pletoucích žen se teď pohybovaly křečovitě. Vzhled čtvrti Saint Antoine se změnil; tato podoba byla do ní vtloukána po staletí a tyto poslední, dovršující údery mohutně zasáhly do jejího výrazu.

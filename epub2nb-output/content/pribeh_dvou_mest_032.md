@@ -3,8 +3,6 @@ title: Kapitola dvacátá Obhajoba
 contentType: prose
 ---
 
-  
-
 Když se dvojice novomanželů vrátila domů, první, kdo jim přišel blahopřát, byl Sydney Carton. Když se ohlásil, uplynulo od jejich příjezdu sotva několik hodin. Nikterak se nezlepšily jeho zvyky, jeho vzhled ani jeho způsoby; vypadal však při své zamračenosti jaksi poctivě, a to bylo v očích Charlese Darnaye něco nového.
 
 Vyčkal na vhodnou příležitost a odvedl si pak Darnaye k oknu, aby s ním mohl promluvit, aniž kdokoli naslouchal.

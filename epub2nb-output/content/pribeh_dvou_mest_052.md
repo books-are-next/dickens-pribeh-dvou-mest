@@ -3,8 +3,6 @@ title: Kapitola patnáctá Kroky doznívají navždy
 contentType: prose
 ---
 
-  
-
 Dutě a drsně drkotají pařížskými ulicemi káry smrti. Šest kár veze denní příděl vína gilotině. Všechny hltavé a nenasytné stvůry, co si jich kdy představivost vymyslila od časů, kdy byla po prvé zaznamenána, sloučily se tu v jedinou skutečnost gilotiny. A přece není ve Francii se vší její bohatou růzností půd a podnebí jediného stébla, jediného listu, jediného kořene, jediné větévky, jediného pepřového zrnka, jež by uzrávalo za podmínek jistotnějších, než byly ty, z nichž vyrostla tato hrůza. Rozdrťte znovu lidstvo podobnými kladivy a znovu se samo zmrzačí do těchto zmučených podob. Zasejte znovu totéž sémě loupeživé bezuzdnosti a násilnictví a jistě vydá tytéž plody podle svého semene.
 
 Šest kár drkotá ulicemi. Mocný kouzelníku čase, změň je opět v to, čím byly, a ukáže se, že to jsou kočáry absolutních monarchů, slavnostní povozy feudální šlechty, úbory nastrojených Jezabel, kostely, jež nejsou domy Otce mého, nýbrž peleše lotrovské, chýše milionů hladovících venkovanů! Nikoli; veliký kouzelník, jenž velebně vykonává, co ustanovil Stvořitel, nikdy nevrací do původních podob to, co jednou proměnil. „Byl-li jsi proměněn do této podoby z vůle boží,“ praví mudrci začarovanému v moudrých arabských pohádkách, „pak zůstaň tak! Jestliže jsi však nabyl této podoby jen skrze pomíjivé zaklínání, pak se vrať do podoby původní!“ Beznadějně nezměnitelné drkotají káry dál.

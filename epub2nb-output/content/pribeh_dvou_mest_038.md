@@ -3,8 +3,6 @@ title: Kapitola první Tajná záležitost
 contentType: prose
 ---
 
-  
-
 Pomalu cestoval ten, kdo jel z Anglie do Paříže na podzim roku sedmnáctistého devadesátého druhého. I kdyby byl býval svržený nešťastník francouzský král ve vší své slávě dosud na trůně, bylo by tu bývalo dost a dost zdržujících překážek v podobě rozbitých silnic, špatných kočárů a ubohých koní; změnivší se časy přidaly však k těmto překážkám ještě mnohé další. U každé městské brány a u každé vesnické mýtnice stála družina vlasteneckých občanů, kteří měli své národní muškety po boku ve stavu svrchovaně výbuš­né připravenosti a zastavovali všechny přicházející i odcházející, podrobovali je křížovému výslechu, prohlíželi jejich doklady, hledali jejich jména ve vlastních seznamech, vraceli je, posílali je, aby jeli dál, nebo je zadržovali a zajímali, jak jen podle vrtošivého uvážení nebo svévole rozhodli, že bude nejprospěšnější pro novou, jednotnou a nedělitelnou Republiku volnosti, rovnosti a bratrství nebo smrti.
 
 Charles Darnay ujel jen velmi málo francouzských mil a již začal chápat, že pro něj není žádné naděje na návrat po těchto venkovských cestách dřív, dokud by nebyl v Paříži prohlášen za dobrého občana. Ať už se však stane cokoli, cestu dokončit musí. Nezanechal za sebou jedinou nepatrnou vesničku, nebyla za jeho zády spuštěna jediná silniční závora, aniž si uvědomil, že jsou to další železná vrata, která byla postavena mezi ním a Anglií. Všeobecná pozorná bdělost ho tak obkličovala, že kdyby byl býval lapen do sítě nebo dopravován k svému cíli v kleci, nebyl by si mohl víc uvědomit naprostou ztrátu svobody.

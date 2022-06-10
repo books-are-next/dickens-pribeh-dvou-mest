@@ -3,8 +3,6 @@ title: Kapitola třetí Stín
 contentType: prose
 ---
 
-  
-
 Taková byla jedna z prvních úvah, jež vyvstaly v obchodnické hlavě pana Lorryho, když zas začaly úřední hodiny: – že totiž nemá právo uvádět Tellsonovu banku do nebezpečí tím, že tu pod střechou banky poskytuje úkryt choti emigrantově. Vlastní svůj majetek, vlastní bezpečnost i život byl by dal pro Lucii a její dítě v sázku bez jediného zaváhání; ale to, co mu bylo svěřeno, nebylo jeho, a pokud šlo o toto obchodní pověření, byl pan Lorry v nejpřísnějším smyslu slova obchodník.
 
 Nejprve mu kmitl hlavou Defarge a pomyslil si, že opět vyhledá vinárnu a poradí se s vinárníkem, kde by se dalo najít nejbezpečnější bydliště, když město je v tomto stavu šílenství. Ale táž úvaha, která ho připomněla, opět jej zamítla; bydlil v nejdivočejší čtvrti, nepochybně tam měl významné postavení a jistě se velmi podílel na jejích nebezpečných podnicích.

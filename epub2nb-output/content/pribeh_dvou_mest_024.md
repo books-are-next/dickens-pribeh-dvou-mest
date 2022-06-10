@@ -3,8 +3,6 @@ title: Kapitola dvanáctá Jemný člověk
 contentType: prose
 ---
 
-  
-
 Když si pan Stryver velkomyslně usmyslil obdařit doktorovu dceru dobrou partií, rozhodl se, že jí poví o tomto jejím štěstí ještě dříve, než sám odjede na soudní prázdniny z Londýna. Když o té věci trochu uvažoval, dospěl k závěru, že bude dobře vyřídit hned také všechny předběžné záležitosti a že by se pak svobodně mohli dohodnout, zda jí má dát svou ruku týden nebo dva před podzimním soudním zasedáním nebo o krátkých vánočních prázdninách mezi zasedáním podzimním a lednovým.
 
 Pokud šlo o jeho postavení v této při, neměl nejmenší pochybnosti a jasně už viděl před sebou, jak bude znít rozsudek. Tento případ, rozveden před porotou z hlediska čistě světského – z jediného hlediska, které stojí za to, aby se k němu přihlíželo –, byl zcela prostý a nebylo v něm slabin. Sám tu byl stranou žalující, jeho důkazy nebylo možno vyvrátit, a tak se obhájce strany žalované vzdal obhajoby a porota se ani neodešla radit. Když případ přezkoušel, přesvědčil se pan Stryver v úloze předsedy civilního soudu, že jasnější pře ani nemůže být.

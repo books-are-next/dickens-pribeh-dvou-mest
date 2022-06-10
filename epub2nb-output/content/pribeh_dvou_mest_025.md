@@ -3,8 +3,6 @@ title: Kapitola třináctá Člověk bez jemnosti
 contentType: prose
 ---
 
-  
-
 Zářil-li Sydney Carton vůbec někde, pak jistě nezářil v domě doktora Manetta. Chodíval tam celý ten rok často a vždy si tam počínal jako zachmuřený a zádumčivý mrzout. Když se mu zachtělo hovořit, hovořil dobře; ale mrakem naprosté lhostejnosti, jenž na něm ležel tak neblaze a temně, zřídka proniklo nějaké světlo z jeho nitra.
 
 A přece měl jaksi rád ulice v okolí toho domu i neživotné kameny jejich dlažby. Mnohokrát tudy za noci bezcílně a nešťastně bloudil, když v něm víno neprobudilo trochu přechodné veselosti; mnohokrát teskné svítání odhalilo jeho osamělou postavu, jak se tu potuluje, a potuloval se tu ještě, když první paprsky slunce ostře osvítily architektonické krásy vzdálených kostelních věží a výstavných budov, a tato klidná chvíle vnášela patrně do jeho duše pomyšlení na lepší věci, jinak zapomenuté a nedostižné. Od nedávna uléhal na svou zanedbanou postel v Temple Courtu řidčeji než kdy dříve; a nejednou, když na ní ležel pouhých několik minut, vstal opět a zas ho to hnalo do těchto končin.

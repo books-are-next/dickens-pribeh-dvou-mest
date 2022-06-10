@@ -3,8 +3,6 @@ title: Kapitola druhá Dostavník
 contentType: prose
 ---
 
-  
-
 Před první postavou tohoto vyprávění prostírala se kteréhosi pátečního večera v pozdním listopadu silnice do Doveru. Ležela před tím člověkem zakryta doverským dostavníkem, který namáhavě stoupal na Shooter’s Hill. Kráčel do vrchu pěšky blátem po boku dostavníku, jak šli i ostatní cestující; nešli tak proto, že by snad měli za těch okolností chuť trochu se projít, nýbrž proto, že stoupání bylo tak příkré, bláto tak hluboké, postroj i vůz tak těžké, až to už třikrát přinutilo koně zastavit a jednou zatáhli dokonce ve vzpurném úmyslu vrátit se do Blackheathu vůz napříč silnicí. Avšak opratě, bič, kočí i průvodčí, všichni společně, přečetli jim onen článek válečného zákoníku, jenž zakazuje takový záměr, byť jinak vydatně podpíral tvrzení, že některá zvířata jsou nadána rozumem; spřežení kapitulovalo a vrátilo se k povinnosti.
 
 Se skloněnými hlavami a roztřesenými ocasy brodili se koně vpřed hustým blátem, potáceli se co chvíli a klopýtali, až se zdálo, že se v kloubech rozpadnou na kusy. Kdykoli je kočí utišoval a konečně i zastavil svým obezřetným: „Ou! Tak už ou!“ náruční kůň prudce potřásl hlavou a vším, co bylo na ní – jako nějaký neobyčejně zatvrzelý kůň, který tvrdí, že dostavník vůbec nelze do vrchu vytáhnout. Kdykoli sebou náruční kůň takto otřásl, vždy se náš cestující ulekl, jak už se neklidní cestující lekají, a velmi se znepokojil.

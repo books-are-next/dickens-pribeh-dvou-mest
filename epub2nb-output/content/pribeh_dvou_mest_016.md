@@ -3,8 +3,6 @@ title: Kapitola čtvrtá Blahopřání
 contentType: prose
 ---
 
-  
-
 Poslední usazenina lidské várky, jež tu vřela po celý den, proudila ven z chmurně osvětlených chodeb soudního dvora, když se doktor Manette, jeho dcera Lucie Manettová, právní zástupce obžalovaného pan Lorry a jeho obhájce pan Stryver shromáždili kolem pana Charlese Darnaye, právě propuštěného, a blahopřáli mu k jeho úniku před smrtí.
 
 Bylo by bývalo nesnadno i ve světle mnohem jasnějším rozeznat v doktoru Manettovi, produševnělém v tváři a napřímeném, onoho obuvníka z pařížského podkroví. Kdokoli se však na něj už dvakrát podíval, nemohl se ubránit, aby se na něj nepodíval znovu, a to i tenkrát, když nebyla příležitost zaslechnout truchlivou kadenci jeho ztlumeného hrobového hlasu nebo spatřit tu jeho nepřítomnost ducha, jež na něj padala jako mračno vždy tak náhle bez jakékoli zjevné příčiny. Byla tu jedna vnější příčina, a to zmínka o jeho dlouhých letech utrpení – jako se stalo za soudního řízení –, jež z hlubin jeho duše vyvolávala v něm tento stav, avšak vznikal v něm i bez příčiny a zahaloval jej pak truchlivostí tak nepochopitelnou těm, kteří neznali jeho příběh, že to vypadalo, jako by viděli stín skutečné Bastily, vržený na něj letním sluncem, zatím co sama Bastila byla na tři sta mil daleko.

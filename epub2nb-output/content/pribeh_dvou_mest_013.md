@@ -3,8 +3,6 @@ title: "Kapitola první O\_pět let později"
 contentType: prose
 ---
 
-  
-
 Dům Tellsonovy banky byl staromódní dokonce už v roce sedmnáctistém osmdesátém. Byl velmi malý, velmi temný, velmi ošklivý i velmi nepohodlný. Nadto byl staromódní i v tom mravním smyslu, že totiž společní majitelé té banky byli hrdí na to, jak je malý, byli hrdí na jeho temnotu, hrdí na jeho ošklivost i na jeho nepohodlnost. Dokonce se chlubili tím, jak vynikající jsou tyto vlastnosti, a doslova byli horlivě přesvědčeni, že by dům byl méně ctihodný, kdyby bylo možno vznášet proti němu méně námitek. Toto nebyla žádná trpná víra, nýbrž byla to činná zbraň, jíž se oháněli, když byla řeč o lépe zařízených bankovních domech. Tellsonova banka (tak to říkali) nepotřebuje žádné pohodlí, Tellsonova banka nepotřebuje světlo, Tellsonova banka nepotřebuje žádné okrasy. Noakes a spol. nebo Bratří Snooksové to možná potřebují, ale Tellsonova banka to díky Bohu nepotřebuje!
 
 Kterýkoli ze společníků byl by vydědil vlastního syna, kdyby se s ním byl dostal do sporu o přestavbu Tellsonovy banky. V tomto ohledu to bylo s bankou právě tak jako s celou zemí, jež přece velmi často vydědila své syny za to, že navrhovali zlepšení v zákonech i mravech, proti kterým bylo možno velmi mnoho namítat, ale které právě proto byly tím víc hodny úcty.

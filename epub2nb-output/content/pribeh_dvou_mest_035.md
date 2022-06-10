@@ -3,8 +3,6 @@ title: Kapitola dvacátá třetí Požár mohutní
 contentType: prose
 ---
 
-  
-
 Nastaly změny ve vsi, kde voda padala do kašny a kde cestář denně vycházel vytloukat z kamení na silnici tolik drobtů chleba, kolik jen mohlo jakž takž udržet pohromadě jeho ubohou nevědomou duši a ubohé zbědované tělo. Vězení na skále už tak nevládlo nad krajem jako kdysi; hlídali tam vojáci, ale nebylo jich mnoho; důstojníci tam hlídali vojáky, ale nikdo z nich nevěděl, co jejich mužstvo udělá – jen tolik věděli, že pravděpodobně neudělá, co mu bude rozkázáno.
 
 Široko daleko se rozkládala zpustlá krajina, neposkytující nic než samou bezútěšnost. Všechno listí, všechny traviny, všechna obilní stébla byla tak scvrklá a ubohá jako sami zubožení lidé. Všechno tu bylo sehnuto, zhněteno, sklíčeno a zlomeno. Obydlí, ploty, domácí zvířata, muži, ženy, děti i sama půda, po níž chodili – všechno bylo zhola vyčerpáno.

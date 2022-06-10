@@ -3,8 +3,6 @@ title: Kapitola šestá Stovky lidí
 contentType: prose
 ---
 
-  
-
 Tichý byt doktora Manetta byl v tichém zákoutí ulic poblíž Soho Square. Jednoho krásného nedělního odpoledne, když už se vlna čtyř měsíců převalila přes soudní řízení ve věci zrady a odnesla je, pokud jde o zájem a paměť veřejnosti, daleko na moře, ubíral se pan Jarvis Lorry slunnými ulicemi z Clerkenwellu, kde bydlil, aby navštívil doktora a povečeřel u něho. Když byl několikrát opět nadlouho a nadobro zaujat doktorovými obchodními záležitostmi, stal se pak konečně pan Lorry jeho přítelem a ono tiché zákoutí ulic stalo se slunnou končinou jeho života.
 
 Této krásné neděle kráčel pan Lorry za časného odpoledne směrem k Soho ze tří obvyklých důvodů. Za prvé vycházel často s doktorem a Lucií za krásných nedělí, aby se před večeří prošli; za druhé tam zvykl chodit i za nedělí deštivých jako rodinný přítel, aby s nimi hovořil, četl, díval se z oken a vůbec nějak strávil den; za třetí musel náhodou vyřešit nějaké svoje zlé pochybnosti a věděl už, že v prostředí doktorovy domácnosti se mu nejspíše podaří je vyřešit.

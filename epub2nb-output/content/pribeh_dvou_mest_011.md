@@ -3,8 +3,6 @@ title: Kapitola šestá Obuvník
 contentType: prose
 ---
 
-  
-
 „Dobrý den!“ pravil pan Defarge, shlížeje na bílou hlavu, jež byla hluboko sehnuta nad obuvnickou prací.
 
 Na okamžik se hlava zvedla a na pozdrav odpověděl hlas velmi slabý, jako by to bylo zaznělo z veliké dálky.

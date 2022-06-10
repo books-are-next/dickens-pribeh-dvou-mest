@@ -3,8 +3,6 @@ title: Kapitola dvacátá čtvrtá Magnetová hora přitahuje
 contentType: prose
 ---
 
-  
-
 Zatím co požáry takto šlehaly do výše, zatím co se moře takto zvedalo – hněvivý oceán, na němž nebylo žádného utišení, jenž ustavičně stoupal výš a výš k hrůze a údivu diváků na březích, otřásal při svých náporech pevnou zemí – uplynuly tři bouřlivé roky. Troje další narozeniny maličké Lucie byly zapředeny zlatou nití do klidného přediva života v jejím domově.
 
 Po mnohé večery a po mnohé dny naslouchali obyvatelé a přátelé tohoto domova ozvěnám v zákoutí a srdce se jim zastavovala, když slýchali kroky valících se zástupů. Neboť viděli tyto kroky před svými vnitřními zraky jako kroky lidí, valících se bouřlivě pod rudou vlajkou, prohlašujících, že jejich vlast je v nebezpečí, proměněných v divokou zvěř strašlivým kouzlem, pod nímž žili tak dlouho.
@@ -112,6 +110,8 @@ Po těchto slovech, a lusknuv ještě naposled prsty, vyrazil pan Stryver za v�
 „Přijdu se ještě s vámi rozloučit.“
 
 Nespokojen sám se sebou, se Stryverem i s mnoha jinými lidmi, pospíšil si Darnay co nejrychleji do zátiší Templu, otevřel dopis a četl. Toto tam bylo napsáno:
+
+  
 
 _Vězení Abbaye, Paříž, 21. června 1792._
 

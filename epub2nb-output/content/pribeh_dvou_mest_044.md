@@ -3,8 +3,6 @@ title: Kapitola sedmá Zaklepání na dveře
 contentType: prose
 ---
 
-  
-
 „Zachránil jsem ho.“ Nebyl to další z těch snů, v nichž k ní často přicházel; opravdu tady byl. A přece se jeho žena chvěla a lpěl na ní mlhavý, ale těžký strach.
 
 Všechno ovzduší kolem bylo tak těžké a temné, lidé byli tak vášnivě pomstychtiví a vrtkaví, nevinní byli odsuzováni k smrti na pouhé mlhavé podezření a z temné zášti; bylo tak nemožno zapomenout, že mnozí, právě tak nevinní jako její manžel a právě tak někomu drazí jako on jí, propadali denně osudu, jemuž on byl vyrván, že se jejímu srdci nemohlo tak ulehčit, jak myslila, že by tomu mělo být. Začaly padat stíny zimního odpoledne a strašlivé káry i nyní drkotaly ulicemi. V duchu je sledovala a hledala jej mezi odsouzenci; a pak se ještě těsněji k němu přitiskla, jak tu byl přítomen ve své tělesné podobě, a chvěla se ještě víc.

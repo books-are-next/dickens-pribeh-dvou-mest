@@ -3,8 +3,6 @@ title: Kapitola devatenáctá Mínění
 contentType: prose
 ---
 
-  
-
 Znaven starostlivým bděním, pan Lorry na hlídce usnul. Desátého jitra z těch napjatých dní s úlekem procitl pod paprsky zářivého slunce, jež vnikalo do pokoje, kde ho těžký spánek překonal za temné noci.
 
 Protřel si oči a přiměl se k bdělosti; když to však učinil, začal mít pochybnosti, zda ještě nespí. Neboť přistoupiv ke dveřím doktorova pokoje a nahlédnuv dovnitř, spatřil tam, že obuvnická lavice i nástroje jsou opět odstrčeny stranou a že doktor sedí u okna a čte. Měl na sobě obvyklý ranní oděv a jeho tvář (kterou pan Lorry jasně viděl), třebaže byla dosud velmi bledá, měla výraz klidné a pozorné soustředěnosti.

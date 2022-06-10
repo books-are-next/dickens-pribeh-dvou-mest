@@ -3,8 +3,6 @@ title: Kapitola čtvrtá Příprava
 contentType: prose
 ---
 
-  
-
 Když se konečně dostavníku podařilo dojet za dopoledních hodin do Doveru, vrchní číšník „Hotelu u krále Jiřího“ otevřel po svém zvyku jeho dvířka. Učinil tak pohybem velmi obřadným, neboť zimní cesta dostavníkem z Londýna, to byl výkon, ke kterému bylo nutno dobrodružnému cestujícímu blahopřát.
 
 Zbyl tu už jen jeden dobrodružný cestující, kterému bylo možno blahopřát, neboť dva další už cestou vystoupili. Zatuchlý vnitřek dostavníku s vlhkou a špinavou slámou, se svým nepříjemným zápachem a temnotou podobal se spíše nějaké větší psí boudě. Cestující, pan Lorry, když se tak dostával ven, ověšen slámou, zabalen do huňaté pokrývky, s měkkým kloboukem na hlavě a se zablácenýma nohama, podobal se spíše nějakému většímu psovi.
