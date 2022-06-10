@@ -3,8 +3,6 @@ title: Kapitola jedenáctá Protějšek
 contentType: prose
 ---
 
-  
-
 „Sydneyi,“ pravil pan Stryver téže noci nebo jitra k svému muži pro všechno, „namíchej ještě jednu mísu punče; musím ti něco říci.“
 
 Této noci, minulé noci, předposlední noci a mnoho nocí ještě dřívějších pracoval Sydney dvojnásob, neboť bylo třeba udělat veliký úklid v listinách pana Stryvera, než nastanou dlouhé soudní prázdniny. Úklid byl konečně hotov, Stryverovy nedodělky byly vyřízeny, všechno bylo zpracováno a nyní nezbývalo než čekat na listopad s jeho mlhami povětrnostními i mlhovinami zákonnými, aby přinesl novou vodu na mlýn.

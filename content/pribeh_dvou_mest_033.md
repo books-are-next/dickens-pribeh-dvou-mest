@@ -3,8 +3,6 @@ title: Kapitola dvacátá první Ozvěny kroků
 contentType: prose
 ---
 
-  
-
 Již jsme řekli, že v tom zákoutí, kde bydlil doktor, podivuhodně zněly ozvěny kroků. Pilně předouc zlatou nit, jež poutala jejího manžela, jejího otce, ji samu i dávnou její vládkyni a družku k životu plnému tichého štěstí, sídlila Lucie v nerušeném zákoutí pokojného domu, kde zněly jenom ozvěny, a naslouchala ozvučným krokům let.
 
 Přestože byla naprosto šťastna jako mladá manželka, byly zprvu doby, kdy jí práce padala z rukou a oči jí zastírala mlha. V ozvěnách se cosi blížilo, něco lehkého, ještě dalekého a sotva slyšitelného, co však velmi vzrušovalo její srdce. Znepokojovaly ji kolísavé naděje a pochybnosti – naděje na lásku, kterou dosud nepoznala, pochybnosti, zda zůstane živa, aby se mohla z této nové radosti těšit. Slýchala pak mezi ozvěnami zvuky kroků, kráčejících k jejímu časnému hrobu, a myšlenky na manžela, jenž tu zůstane opuštěn a tolik pro ni bude truchlit, zvedaly se jí pak až k očím a lámaly se tam na tříšť krůpějí, jako se vlny lámou.
@@ -62,8 +60,6 @@ Kteréhosi večera v polovině července roku sedmnáctistého osmdesátého de
 „Tedy představa, moje rozumná holčičko,“ pravil pan Lorry a poplácal ji po ruce. „Tolik je těch ozvěn a jsou tak hlučné, neslyšíte je? Jen si poslechněte!“
 
 \* \* \*
-
-  
 
 Byly to kroky unáhlené a šílené, kroky nebezpečné, jestliže by se měly vmísit někomu do života, byly to kroky, jež bylo těžko opět očistit, jestliže byly jednou rudě potřísněny, tyto kroky zuřící daleko odtud v čtvrti Saint Antoine, zatím co tato malá společnost seděla u setmělého londýnského okna.
 

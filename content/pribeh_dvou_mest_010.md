@@ -3,8 +3,6 @@ title: Kapitola pátá Vinárna
 contentType: prose
 ---
 
-  
-
 Na ulici spadl veliký sud vína a rozbil se. Stalo se to, když jej skládali z povozu; sud se s rachotem překotil, obruče praskly a ležel teď na dláždění právě před dveřmi vinárny, roztříštěn jako vlašský ořech.
 
 Všichni lidé, kteří byli nablízku, nechali práce nebo lenošení a běželi sem, aby se napili vína. Hrubé, nepravidelné dlažební kostky na všech stranách zaostřené a určené, jak se možno domnívat, výslovně k tomu, aby zmrzačily všechna živá stvoření, jež tudy projdou, zadržely víno mezi sebou a vytvořily z něho malá jezírka; ta byla teď podle své velikosti obklopena menšími nebo většími skupinkami lidí, kteří se mezi sebou strkali. Někteří muži poklekli, a spojivše dlaně obou rukou, utvořili tak nádobky, z nichž pili nebo se pokoušeli, dřív než všechno víno uteklo mezi prsty, dát napít i ženám, které se jim nakláněly přes ramena. Jiní zas nabírali z kaluží rozbitými zbytky hliněných nádob nebo v nich namáčeli šátky z ženských hlav, jež pak maličkým dětem ždímali do úst; jiní stavěli z bláta drobné přehrady, aby odtékající víno zastavili; jiní, upozorňováni těmi, kteří přihlíželi z oken, pobíhali z místa na místo, aby zarazili stružky, rozbíhající se do všech stran; jiní konečně se vrhli na prosáklé a usazeninou povlečené kusy sudu a s dychtivou lačností olizovali, nebo dokonce žvýkali vlhčí, vínem promočené úlomky. Nebylo tu kanálu, kudy by bylo mohlo víno odtéci; avšak nejen všechno zmizelo, nýbrž ztratilo se s ním odtud i tolik bláta, že to vypadalo, jako by byl celou ulici vymetl metař, kdyby si vůbec bylo možno pomyslit, že se v téhle končině taková zázračná bytost někdy objevuje.

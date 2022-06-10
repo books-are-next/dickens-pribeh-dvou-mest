@@ -3,8 +3,6 @@ title: Kapitola první Doba
 contentType: prose
 ---
 
-  
-
 Byly to časy ze všech nejlepší, byly to časy ze všech nejhorší, byl to věk moudrosti, byl to věk pošetilosti, byla to doba víry, byla to doba nevíry, byl to čas světla, byl to čas temnoty, bylo to jaro naděje, byla to zima beznaděje, vše bylo možno očekávat, nebylo možno očekávat nic, všichni jsme kráčeli přímo do nebes, všichni jsme se ubírali směrem právě opačným – byla to zkrátka doba tak podobná době naší, že někteří její nejhlučnější vládci požadovali, aby ve zlém i v dobrém byla považována za rozkvět nejvyššího stupně.
 
 Na trůně anglickém seděl král širokých čelistí a královna obyčejné tváře, na trůně francouzském seděl král širokých čelistí a královna krásné tváře. Panstvu, vládnoucímu nad chlebem i rybami svých zemí, bylo v obou královstvích nad slunce jasnější, že všechno je na věčné časy v nejlepším pořádku.

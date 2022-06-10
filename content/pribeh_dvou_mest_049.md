@@ -3,8 +3,6 @@ title: Kapitola dvanáctá Tma
 contentType: prose
 ---
 
-  
-
 Sydney Carton se na ulici zastavil, nerozhodnut, kam má jít. „V devět hodin v Tellsonově bance,“ pravil se zamyšlenou tváří. „Bude dobře, abych se tady mezitím ukazoval? Myslím, že ano. Bude dobře, aby lidé věděli, že je tu nějaký takový člověk jako já; to je docela rozumné opatření a možná, že je to příprava zcela nezbytná. Ale opatrnost, opatrnost! Musím si to pořádně rozmyslit!“
 
 Zaraziv kroky, směřující již k jednomu cíli, přešel několikrát sem a tam stmívající se ulicí a uvažoval přitom, jaké důsledky by jeho nápad mohl mít. A prvotní dojem z něho byl potvrzen. „Bude dobře,“ pravil rozhodnut s konečnou platností, „aby lidé věděli, že je tu nějaký takový člověk jako já.“ A obrátil se směrem k čtvrti Saint Antoine.

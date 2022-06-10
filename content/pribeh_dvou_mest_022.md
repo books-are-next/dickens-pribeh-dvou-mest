@@ -3,8 +3,6 @@ title: Kapitola desátá Dva sliby
 contentType: prose
 ---
 
-  
-
 Uplynulo asi dvanáct měsíců a pan Charles Darnay se stal v Anglii učitelem francouzštiny a znalcem francouzské literatury. Za našich dní byl by profesorem; tehdy ho nazývali domácím učitelem. Učil mladé lidi, kteří měli dost volného času a zájmu studovat živý jazyk, jímž se hovoří po celém světě, a zušlechťoval znalosti všeho, co bylo v tomto jazyce vytvořeno ve vědě i v umění. Uměl vedle toho o těchto věcech psát v dobré angličtině a také je do dobré angličtiny překládat. Takové učitele nebylo tehdy snadno najít; bývalí princové a budoucí králové nedávali se ještě mezi učitele a šlechtici, na mizinu přivedení, nebyli ještě vymazáváni z hlavních knih v Tellsonově bance a nestávali se z nich ještě kuchaři nebo tesaři. Jako učitel, jemuž bylo pro jeho znalosti neobyčejně příjemno i prospěšno naslouchat, a jako vkusný překladatel, jenž do své práce vkládal vedle slovníkových vědomostí něco navíc, byl mladý pan Darnay brzy dobře znám a vyhledáván. Vyznal se nadto v poměrech své země a na ty se soustřeďoval tehdy čím dál větší zájem. A tak se mu při jeho veliké vytrvalosti a neumdlévající píli dobře vedlo.
 
 Neočekával, že bude v Londýně chodit po zlatě nebo že bude mít na růžích ustláno; kdyby byl takto svá očekávání přeháněl, nebyl by se ničeho dopracoval. Očekával práci, tu také dostal a dělal ji, jak uměl nejlépe. V tom vězel jeho úspěch.

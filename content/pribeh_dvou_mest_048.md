@@ -3,8 +3,6 @@ title: Kapitola jedenáctá Soumrak
 contentType: prose
 ---
 
-  
-
 Nešťastná žena nevinného muže takto k smrti odsouzeného se skácela, uslyševši rozsudek, jako smrtelně raněna. Nevydala však ze sebe ani hlásek; a hlas v jejím nitru, jenž jí připomínal, že právě ona jediná ze všech lidí musí ho podpírat v jeho neštěstí a nikoli toto neštěstí rozmnožovat, byl tak mocný, že se pod jeho účinkem i z tohoto úderu okamžitě vzpamatovala.
 
 Poněvadž se soudcové měli zúčastnit jakési pouliční demonstrace, bylo zasedání tribunálu odročeno. Nedozněl ještě hluk rychlého odchodu posluchačstva ze síně a Lucie již tu stála, napřahujíc ruce k manželovi, na tváři majíc jen a jen lásku a útěchu.

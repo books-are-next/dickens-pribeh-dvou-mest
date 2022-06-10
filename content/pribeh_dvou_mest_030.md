@@ -3,8 +3,6 @@ title: Kapitola osmnáctá Devět dní
 contentType: prose
 ---
 
-  
-
 Svatební den se jasně rozzářil a stáli pak připraveni před zavřenými dveřmi doktorova pokoje, kde doktor hovořil s Charlesem Darnayem. Byli přichystáni odejít do kostela; krásná nevěsta, pan Lorry a slečna Prossová – pro niž, když se postupně smířila s nevyhnutelností, byla by tato událost znamenala naprostou blaženost, nebýt toho, že jí přece jen ještě občas kmitla hlavou myšlenka, že ženichem měl být její bratr Solomon.
 
 „Tak tedy,“ pravil pan Lorry, jehož obdivu pro nevěstu nebylo nikdy dost a jenž ji stále obcházel, aby si prohlédl všechny záhyby jejích prostých, krásných šatů, „tak tedy pro tohle jsem vás, krásná Lucie, jako nemluvňátko převezl přes průliv! Pánbůh se mnou! Pramálo jsem tehdy pomyslil, co to vlastně dělám! Pramálo jsem si tenkrát cenil závazku, který vůči mně bude mít můj přítel pan Charles!“

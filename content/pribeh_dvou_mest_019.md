@@ -3,8 +3,6 @@ title: "Kapitola sedmá Milostivý pán v\_městě"
 contentType: prose
 ---
 
-  
-
 Milostivý pán, jeden z mocných dvorských pánů, chystal se právě ve svém velikém pařížském paláci přijímat návštěvy, jak je přijímal každých čtrnáct dní. Milostivý pán byl právě ve svém vnitřním pokoji, v svatostánku všech svatostánků, v komnatě, jež byla pro onen dav zbožňovatelů ve vnějších pokojích ze všech svatých komnat nejsvětější. Milostivý pán se právě chystal pít čokoládu. Milostivý pán uměl velmi snadno spolykat velmi mnoho věcí a několik málo nízkých duší se domnívalo, že až příliš rychle polyká celou Francii; ale jitřní čokoládu nemohl milostivý pán dostat do hrdla, aniž mu přitom pomáhali čtyři statní muži mimo kuchaře.
 
 Ano. Bylo k tomu třeba čtyř mužů, všech čtyř v lesku velkolepých ozdob, a přitom nejvyšší z nich nebyl by ani mohl žít, kdyby byl měl v kapse méně než dvoje zlaté hodinky, jak to žádala snaha vyrovnat se vznešenému a ušlechtilému vzoru milostivého pána; takových čtyř mužů bylo třeba, aby se šťastná čokoláda dostala milostivému pánovi ke rtům. Jeden lokaj přinášel konvici s čokoládou do posvěcené komnaty; druhý míchal čokoládu, až se pěnila, a to jakýmsi drobným nástrojem, který pro ten účel nosil při sobě; třetí podával ubrousek, poctěný přízní vznešeného; a čtvrtý (ten s dvojími hodinkami) čokoládu naléval. Naprosto nebylo milostivému pánovi možno vzdát se třeba jen jediného z těchto mužů, kteří mu podávali čokoládu, aby se tím nesnížil ze svého povýšeného místa pod obdivnými nebesy. Padla by temná skvrna na jeho štít, kdyby mu byli podávali čokoládu jen sprostě tři muži; ze dvou by byl jistě měl smrt.

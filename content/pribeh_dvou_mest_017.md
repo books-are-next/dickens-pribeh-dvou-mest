@@ -3,8 +3,6 @@ title: Kapitola pátá Muž pro všechno
 contentType: prose
 ---
 
-  
-
 V těch dobách se velmi pilo a většina lidí pila velmi mnoho. Pokud jde o tyto zvyky, nastalo od té doby takové zlepšení, že udat dnes střízlivé číslo o množství vína a punče, které mohl kterýkoli muž spolykat za jeden večer, aniž to v nejmenším ublížilo jeho dokonalé pověsti, vypadalo by za našich dní jako směšné přehánění. Učený stav právnický zajisté nikterak v bakchantické náklonnosti nezůstával pozadu za jinými učenými stavy; a pan Stryver, razící si již rychle cestu k veliké a výnosné praxi, nikterak v této věci nezůstával za svými druhy v povolání, právě tak jako za nimi nezůstával ani v střízlivějších odvětvích právnického soutěžení.
 
 Jsa oblíbencem v Old Bailey právě tak jako u soudů občanských, začal pan Stryver opatrně uřezávat spodní příčle žebříku, po němž stoupal nahoru. Občanské soudy a Old Bailey musely teď svého oblíbence do svých toužících náručí zvláště zvát; a když se tak svými širokými rameny denně prodíral u nejvyššího soudního dvora před tvář nejvyššího soudce, vypadala kvetoucí tvář pana Stryvera, vyrážející nad záhony paruk, jako veliká slunečnice, jež se dere ke slunci z celé zahrady jeho řadových druhů v povolání, planoucích závistí.

@@ -3,8 +3,6 @@ title: Kapitola třináctá Padesát dva
 contentType: prose
 ---
 
-  
-
 V temné Conciergerie čekali odsouzenci, určení, aby toho dne byli popraveni, na svůj osud. Bylo jich právě tolik jako týdnů v roce. Dvaapadesát jich mělo jet toho odpoledne živým proudem města k bezbřehému, věčnému moři. Než opustili svoje kobky, již byli urče­ni ti, kteří v nich budou přebývat po nich; než jejich krev splynula s krví, která byla prolita včera, již byla přichystána krev, která se s ní smísí zítra.
 
 Dvaapadesát jich bylo odpočítáno. Od sedmdesátiletého nájemce pozemkových daní, jenž za všechno své bohatství nemohl koupit život, po dvacetiletou švadlenu, kterou nemohla zachránit její chudoba a nízkost původu. Tělesné choroby, zplozené lidskými neřestmi a nedbalostí, vyhledávají své oběti mezi všemi vrstvami; a strašlivá mravní nemoc, zrozená v nevýslovných utrpeních, za nesnesitelného útlaku a za bezcitné lhostejnosti, vrhala se právě tak na všechny bez rozdílu.

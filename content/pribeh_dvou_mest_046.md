@@ -3,8 +3,6 @@ title: Kapitola devátá Hra dohrána
 contentType: prose
 ---
 
-  
-
 Zatím co Sydney Carton byl s vězeňským prašivcem ve vedlejším pokoji a zatím co tam hovořili spolu tak tiše, že naprosto nic nebylo slyšet, hleděl pan Lorry na Jerryho s velikými pochybnostmi a nedůvěrou. Počestný obchodník přijímal tento pohled tak, že to nikterak nebudilo důvěru, přenášel váhu těla z nohy na nohu, jako by měl těchto údů padesát a všechny je zkoušel, prohlížel si velmi zblízka a pozorně nehty na prstech, a kdykoli se mu pan Lorry podíval přímo do očí, byl zachvácen oním zvláštním druhem drobného kašle, jenž vyžaduje, aby se přiložila dlaň před ústa, a který je zřídka, jestli vůbec někdy, známkou slabosti, provázející dokonalou přímost povahy.
 
 „Jerry,“ pravil pan Lorry. „Pojďte sem.“

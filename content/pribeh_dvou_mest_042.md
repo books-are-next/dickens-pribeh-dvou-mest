@@ -3,8 +3,6 @@ title: Kapitola pátá Řezač dříví
 contentType: prose
 ---
 
-  
-
 Rok a tři měsíce. Po celý ten čas nebyla si Lucie nikdy od hodiny k hodině jista, zda příštího dne gilotina nezbaví jejího manžela hlavy. Den co den těžce drkotaly kamennými ulicemi popravčí káry, naplněné odsouzenci. Krásné dívky, sličné ženy vlasů hnědých, černých i s šedinami, mladíci, muži urostlí i staří, šlechtici i venkované, a všichni byli rudým vínem pro gilotinu, všichni byli denně vyváděni na světlo z temných sklepů odporných věznic a dopravováni ulicemi, aby uhasili její palčivou žízeň. Volnost, rovnost, bratrství nebo smrt; z toho všeho bylo možno nejsnadněji rozdávat to poslední, ó gilotino!
 
 Kdyby byly náhlost neštěstí i vířivý spěch času doktorovu dceru tak ohromily, že by očekávala výsledek v lenivém zoufalství, bylo by se s ní dálo totéž, co s mnoha lidmi té doby. Ale od chvíle, kdy si v podkroví v čtvrti Saint Antoine přitiskla tu šedivou hlavu na mladá ňadra, plnila věrně svoje povinnosti. A plnila je ještě věrněji v době zkoušek, jak to vždy budou plnit lidé tiše oddaní a dobří.

@@ -3,8 +3,6 @@ title: Kapitola osmá Milostivý pán na venkově
 contentType: prose
 ---
 
-  
-
 Krásná krajina s lány zářivé pšenice, ne však příliš hojné. Kde by byla měla také růst pšenice, tam byla pole ubohého žita, tam zas byl naset hrách a fazole, jinde opět rostly náhradou za pšenici nepěstěné traviny. Na přírodě právě tak jako na mužích a ženách, kteří ji obdělávali, bylo vidět jakýsi sklon neochotně živořit – z utrápenosti se vzdát a odumřít.
 
 Pan markýz ve svém cestovním kočáře (jenž mohl být trochu lehčí), taženém čtyřspřežím poštovních koní a obsazeném ještě dvěma postiliony, vyjížděl právě těžce do příkrého kopce. Začervenalost na tváři pana markýze nikterak nebyla hanbou pro jeho vznešené vychování, neboť nepocházela z nitra, způsobila ji okolnost zcela vnější, nad kterou neměl moc – zapadající slunce.
