@@ -8,8 +8,9 @@
       "author": "Charles Dickens",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-02-24T00:00:00.000Z",
-      "publisherShort": "MKP",
-      "isbn": "978-80-86069-67-8"
+      "publisherShort": "mkp",
+      "isbn": "978-80-86069-67-8",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola\nMLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady\nMLP_uroven2_kapitola",
@@ -1138,6 +1139,6 @@
       "user": "books-are-next",
       "repo": "dickens-pribeh-dvou-mest"
     },
-    "generatedAt": 1655271173850
+    "generatedAt": 1655364141466
   }
 }

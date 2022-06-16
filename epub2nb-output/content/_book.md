@@ -11,8 +11,9 @@ meta:
   author: Charles Dickens
   publisher: Městská knihovna v Praze
   modified: '2022-02-24T00:00:00.000Z'
-  publisherShort: MKP
+  publisherShort: mkp
   isbn: 978-80-86069-67-8
+  edition: beletrie
 readingOrder:
   - promo.html
   - pribeh_dvou_mest_005.html

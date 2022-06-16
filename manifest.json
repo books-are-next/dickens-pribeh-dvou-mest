@@ -5,10 +5,11 @@
   "title": "Příběh dvou měst",
   "author": "Charles Dickens",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-pribeh-dvou-mest-17ef127",
-  "revision": "17ef127",
+  "identifier": "dickens-pribeh-dvou-mest-cc95c69",
+  "revision": "cc95c69",
   "readingOrder": [
     "promo.html",
     "pribeh_dvou_mest_005.html",
@@ -62,8 +63,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:48:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272105972
+    "date": "Thu Jun 16 2022 07:28:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364499757
   },
   "documents": [
     {
@@ -1061,9 +1062,9 @@
   ],
   "totals": {
     "all": {
-      "words": 120919,
-      "chars": 716000,
-      "ideas": 3310
+      "words": 120920,
+      "chars": 716008,
+      "ideas": 3311
     },
     "chapters": {
       "words": 120758,
