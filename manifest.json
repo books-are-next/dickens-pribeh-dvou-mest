@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-pribeh-dvou-mest-a6e54ad",
-  "revision": "a6e54ad",
+  "identifier": "dickens-pribeh-dvou-mest-a9aeeb3",
+  "revision": "a9aeeb3",
   "readingOrder": [
     "promo.html",
     "pribeh_dvou_mest_005.html",
@@ -60,11 +60,11 @@
     "pribeh_dvou_mest_050.html",
     "pribeh_dvou_mest_051.html",
     "pribeh_dvou_mest_052.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:00:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978412294
+    "date": "Thu Jul 07 2022 08:21:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182077660
   },
   "documents": [
     {
@@ -393,7 +393,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola osmá Milostivý pán na venkově",
+          "name": "Kapitola osmá Milostivý pán na venkově",
           "id": null,
           "children": []
         }
@@ -813,7 +813,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola čtvrtá Klid za bouře",
+          "name": "Kapitola čtvrtá Klid za bouře",
           "id": null,
           "children": []
         }
@@ -873,7 +873,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kapitola sedmá Zaklepání na dveře",
+          "name": "Kapitola sedmá Zaklepání na dveře",
           "id": null,
           "children": []
         }
@@ -1028,7 +1028,7 @@
       "role": "chapter",
       "order": 48,
       "prev": "pribeh_dvou_mest_051.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1041,11 +1041,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 155,
-      "chars": 1006,
+      "chars": 1005,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pribeh_dvou_mest_052.html",
       "next": null,
@@ -1063,7 +1063,7 @@
   "totals": {
     "all": {
       "words": 120920,
-      "chars": 716008,
+      "chars": 716007,
       "ideas": 3311
     },
     "chapters": {

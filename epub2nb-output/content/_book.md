@@ -64,7 +64,7 @@ readingOrder:
   - pribeh_dvou_mest_050.html
   - pribeh_dvou_mest_051.html
   - pribeh_dvou_mest_052.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
