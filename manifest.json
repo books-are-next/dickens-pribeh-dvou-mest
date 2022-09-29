@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-pribeh-dvou-mest-4ba2055",
-  "revision": "4ba2055",
+  "identifier": "dickens-pribeh-dvou-mest-613f9a4",
+  "revision": "613f9a4",
   "readingOrder": [
     "promo.html",
     "pribeh_dvou_mest_005.html",
@@ -63,8 +63,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414414186
+    "date": "Thu Sep 29 2022 21:21:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486475241
   },
   "documents": [
     {
@@ -203,7 +203,7 @@
       "title": "Kapitola šestá Obuvník",
       "file": "pribeh_dvou_mest_011.html",
       "words": 3643,
-      "chars": 21110,
+      "chars": 21111,
       "ideas": 109,
       "role": "chapter",
       "order": 7,
@@ -543,7 +543,7 @@
       "title": "Kapitola šestnáctá Ještě pletení",
       "file": "pribeh_dvou_mest_028.html",
       "words": 3513,
-      "chars": 20804,
+      "chars": 20805,
       "ideas": 122,
       "role": "chapter",
       "order": 24,
@@ -703,7 +703,7 @@
       "title": "Kapitola dvacátá čtvrtá Magnetová hora přitahuje",
       "file": "pribeh_dvou_mest_036.html",
       "words": 3936,
-      "chars": 23469,
+      "chars": 23471,
       "ideas": 92,
       "role": "chapter",
       "order": 32,
@@ -743,7 +743,7 @@
       "title": "Kapitola první Tajná záležitost",
       "file": "pribeh_dvou_mest_038.html",
       "words": 3692,
-      "chars": 22456,
+      "chars": 22457,
       "ideas": 108,
       "role": "chapter",
       "order": 34,
@@ -1063,12 +1063,12 @@
   "totals": {
     "all": {
       "words": 120920,
-      "chars": 716008,
+      "chars": 716013,
       "ideas": 3311
     },
     "chapters": {
       "words": 120758,
-      "chars": 714960,
+      "chars": 714965,
       "ideas": 3288
     }
   }

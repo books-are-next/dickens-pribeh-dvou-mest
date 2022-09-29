@@ -11,7 +11,7 @@ Po mnohé večery a po mnohé dny naslouchali obyvatelé a přátelé tohoto d
 
 Milostivý pán jako společenská vrstva nechtěl mít nic společného s tím úkazem, že není již uznáván a že je ve Francii tak zbytečný, až tu je vážné nebezpečí, že dostane vyhazov z ní i z tohoto světa zároveň. Jako onen sedlák z pohádky, jenž si dal nekonečně mnoho práce, aby vyvolal ďábla, a jenž pak byl při pohledu na něj tak zděšen, že už nebyl schopen na nic se ho zeptat a okamžitě utekl, tak i milostivý pán, když byl po mnohá léta bezostyšně jednal proti všem přikázáním božím a prováděl ještě jiná kouzla, jen aby ďábla přivolal, vznešeně vzal do zaječích, sotva ho spatřil při jeho hrůzném počínání.
 
-Zářivé dvořanstvo odešlo, neboť jinak by se bylo stalo terčem živelného útoku celého národa. Nikdy to nebylo dvořanstvo příliš dvorné k pravdě – na to v něm bylo příliš mnoho ďábelské pýchy, sardanapalského[3](./resources/undefined) přepychu i krtčí slepoty – ale dohrálo již a odešlo. Odešel společně celý dvůr od svých výlučných nejvyšších kruhů až po okrajové kruhy, plné intrik, úplatnosti a pokrytectví. Zmizela i královská rodina; byla obklíčena ve svém paláci a podle posledních zpráv „sesazena“.
+Zářivé dvořanstvo odešlo, neboť jinak by se bylo stalo terčem živelného útoku celého národa. Nikdy to nebylo dvořanstvo příliš dvorné k pravdě – na to v něm bylo příliš mnoho ďábelské pýchy, sardanapalského[^3] přepychu i krtčí slepoty – ale dohrálo již a odešlo. Odešel společně celý dvůr od svých výlučných nejvyšších kruhů až po okrajové kruhy, plné intrik, úplatnosti a pokrytectví. Zmizela i královská rodina; byla obklíčena ve svém paláci a podle posledních zpráv „sesazena“.
 
 Nastal srpen roku sedmnáctistého devadesátého druhého a milostiví páni byli v té době už široko daleko rozprášeni.
 
@@ -95,7 +95,7 @@ Darnay, neschopen se již ovládnout, dotkl se ramene pana Stryvera a řekl:
 
 Pomysliv na tajemství, Darnay se s velikými nesnázemi ovládl a pravil: „Nerozumíte možná tomu člověku.“
 
-„Ale vím zato, jak vás usadit, pane Darnayi,“ pravil chvástavec Stryver, „a taky vás usadím. Jestli je ten člověk urozený muž, pak mu opravdu nerozumím. Můžete mu to vyřídit s mými pozdravy. A můžete mu také ode mne vyřídit, že se divím, když se vzdal svého majetku i postavení ve prospěch té zabijácké chátry, proč se jí pak nepostavil do čela. Ale kdepak, pánové,“ pravil Stryver, rozhlédnuv se kolem a lusknuv prsty, „znám už trochu lidskou povahu a říkám vám, že se takovýhle člověk nikdy nevydá na milost takovým vzácným _protégés_[4](./resources/undefined). Kdepak, pánové, sotva nastane bitka, ukáže jim svoje vznešené paty a uteče.“
+„Ale vím zato, jak vás usadit, pane Darnayi,“ pravil chvástavec Stryver, „a taky vás usadím. Jestli je ten člověk urozený muž, pak mu opravdu nerozumím. Můžete mu to vyřídit s mými pozdravy. A můžete mu také ode mne vyřídit, že se divím, když se vzdal svého majetku i postavení ve prospěch té zabijácké chátry, proč se jí pak nepostavil do čela. Ale kdepak, pánové,“ pravil Stryver, rozhlédnuv se kolem a lusknuv prsty, „znám už trochu lidskou povahu a říkám vám, že se takovýhle člověk nikdy nevydá na milost takovým vzácným _protégés_[^4]. Kdepak, pánové, sotva nastane bitka, ukáže jim svoje vznešené paty a uteče.“
 
 Po těchto slovech, a lusknuv ještě naposled prsty, vyrazil pan Stryver za všeobecného souhlasu posluchačů rameny napřed na Fleet Street. Když pak i všichni ostatní odešli z banky, zůstal pan Lorry sám u stolu s Charlesem Darnayem.
 
@@ -188,8 +188,8 @@ Síla, kterou neviděl, rychle ho teď už k sobě přitahovala a všechny pro
 
 * * *
 
-[3](./resources/undefined) Zpustlý, prostopášný, hýřivý. Pozn. red.
+[^3]: Zpustlý, prostopášný, hýřivý. Pozn. red.
 
-[4](./resources/undefined) Chráněnci. Pozn. red.
+[^4]: Chráněnci. Pozn. red.
 
 </section>

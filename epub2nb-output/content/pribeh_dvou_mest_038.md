@@ -151,7 +151,7 @@ Slovo „žena“ připomnělo Defargeovi jakousi chmurnou myšlenku a řekl s�
 
 „Ale já je tak nepohřbíval, občane Defargei.“
 
-Defarge se na něj v odpověď zamračeně podíval a šel dál v uvzatém[5](./resources/undefined) mlčení. Čím hlouběji se propadal do tohoto mlčení, tím slabší byla naděje – tak se aspoň Darnay domníval – že se byť jen o maličko obměkčí. A tak spěšně řekl:
+Defarge se na něj v odpověď zamračeně podíval a šel dál v uvzatém[^5] mlčení. Čím hlouběji se propadal do tohoto mlčení, tím slabší byla naděje – tak se aspoň Darnay domníval – že se byť jen o maličko obměkčí. A tak spěšně řekl:
 
 „Je pro mě svrchovaně důležité (víte sám, občane, dokonce lépe než já, jak je to pro mne důležité), aby pan Lorry z Tellsonovy banky, Angličan, který je právě v Paříži, dostal zprávu bez jakéhokoli dalšího vysvětlení, že jsem byl uvržen do vězení La Force. Můžete to pro mne zařídit?“
 
@@ -219,6 +219,6 @@ V kobce byla židle, stůl a slamník. Když žalářník před odchodem prohl
 
 * * *
 
-[5](./resources/undefined) Zarputilý. Pozn. red.
+[^5]: Zarputilý. Pozn. red.
 
 </section>
