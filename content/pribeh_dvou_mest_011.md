@@ -113,7 +113,7 @@ Poodešla od zdi podkroví a přistoupila velmi blízko k lavici, na níž sed
 
 Nikdo nepromluvil ani slovo, neozval se žádný zvuk. Stála vedle něho jako duch a on se skláněl nad prací.
 
-Za chvíli si náhodou potřeboval vyměnit nástroj, který měl v ruce, za knejp. Ležel na té straně, kde nestála. Zvedl jej a opět se sklonil k práci, když tu zahlédl sukni jejích šatů. Zvedl oči a spatřil její tvář. Oba přihlížející pohnuli sebou vpřed, pohybem ruky je však zarazila. Přestože oni dva se báli, že se po ní rozmáchne knejpem[1](./resources/undefined), ona sama se toho nebála.
+Za chvíli si náhodou potřeboval vyměnit nástroj, který měl v ruce, za knejp. Ležel na té straně, kde nestála. Zvedl jej a opět se sklonil k práci, když tu zahlédl sukni jejích šatů. Zvedl oči a spatřil její tvář. Oba přihlížející pohnuli sebou vpřed, pohybem ruky je však zarazila. Přestože oni dva se báli, že se po ní rozmáchne knejpem[^1], ona sama se toho nebála.
 
 Ustrašeně na ni zíral a po chvíli začaly jeho rty utvářet jakási slova, avšak žádný zvuk se neozval. V přestávkách jeho zrychleného a těžkého dechu bylo pak slyšet, jak říká:
 
@@ -221,6 +221,6 @@ A onu starou odpověď:
 
 * * *
 
-[1](./resources/undefined) Zakřivený obuvnický nůž. Pozn. red.
+[^1]: Zakřivený obuvnický nůž. Pozn. red.
 
 </section>

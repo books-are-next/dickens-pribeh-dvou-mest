@@ -67,7 +67,7 @@ Defarge zvedl zamyšleně hlavu, jako by i na tomhle něco bylo.
 
 Utahovala uzel a oči jí přitom zaplanuly, jako by rdousila nepřítele.
 
-„Říkám ti,“ pravila paní Defargeová, napřahujíc pravici, aby dala svým slovům důraz, „že i když to trvá dlouho, je to již na cestě a blíží se to. Říkám ti, že to nikdy neustupuje zpět a nikdy se to nezastavuje. Říkám ti, že se to ustavičně přibližuje. Jen se rozhlédni kolem a pomysli, jak žijí všichni ti lidé, které známe, jen pomysli na tváře všech těch lidí, na všechen jejich hněv, na všechnu nespokojenost, kterou jacquerie[2](./resources/undefined) uvádí hodinu co hodinu s větší jistotností v pohotovost. Což to tak může trvat? Jsi mi k smíchu!“
+„Říkám ti,“ pravila paní Defargeová, napřahujíc pravici, aby dala svým slovům důraz, „že i když to trvá dlouho, je to již na cestě a blíží se to. Říkám ti, že to nikdy neustupuje zpět a nikdy se to nezastavuje. Říkám ti, že se to ustavičně přibližuje. Jen se rozhlédni kolem a pomysli, jak žijí všichni ti lidé, které známe, jen pomysli na tváře všech těch lidí, na všechen jejich hněv, na všechnu nespokojenost, kterou jacquerie[^2] uvádí hodinu co hodinu s větší jistotností v pohotovost. Což to tak může trvat? Jsi mi k smíchu!“
 
 „Statečná moje ženo,“ pravil Defarge a stál tam před ní s hlavou trochu skloněnou, s rukama stisknutýma za zády jako učenlivý a pozorný žák před učitelem svého náboženství, „o tom všem nepochybuji. Ale trvá to už tak dlouho a je možné – víš sama dobře, má ženo, že je to možné – že se to nestane, dokud budeme živi.“
 
@@ -247,6 +247,6 @@ Setmělo se a bylo pak slyšet údery kostelních zvonů a vzdálené bubnová
 
 * * *
 
-[2](./resources/undefined) Rebelující sedláci. Pozn. red.
+[^2]: Rebelující sedláci. Pozn. red.
 
 </section>
