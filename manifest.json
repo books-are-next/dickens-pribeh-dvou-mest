@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-pribeh-dvou-mest-9019dd9",
-  "revision": "9019dd9",
+  "identifier": "dickens-pribeh-dvou-mest-a3554ed",
+  "revision": "a3554ed",
   "readingOrder": [
     "promo.html",
     "pribeh_dvou_mest_005.html",
@@ -63,8 +63,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:53:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639598150
+    "date": "Tue Oct 04 2022 16:39:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901587455
   },
   "documents": [
     {
@@ -1042,9 +1042,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 155,
+      "words": 152,
       "chars": 1006,
-      "ideas": 19,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "pribeh_dvou_mest_052.html",
@@ -1062,9 +1062,9 @@
   ],
   "totals": {
     "all": {
-      "words": 120920,
+      "words": 120917,
       "chars": 716013,
-      "ideas": 3311
+      "ideas": 3308
     },
     "chapters": {
       "words": 120758,
