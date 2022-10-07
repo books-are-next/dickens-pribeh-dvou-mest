@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "dickens-pribeh-dvou-mest-c5e263d",
-  "revision": "c5e263d",
+  "identifier": "dickens-pribeh-dvou-mest-ed3d36b",
+  "revision": "ed3d36b",
   "readingOrder": [
     "promo.html",
     "pribeh_dvou_mest_005.html",
@@ -63,8 +63,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:49:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923795604
+    "date": "Fri Oct 07 2022 14:02:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151340902
   },
   "documents": [
     {
